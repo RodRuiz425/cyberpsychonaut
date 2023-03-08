@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cyberpsychonaut/static/css/main.073c9b0a.css",
-    "main.js": "/cyberpsychonaut/static/js/main.41228fb4.js",
+    "main.js": "/cyberpsychonaut/static/js/main.bfd89952.js",
     "static/js/787.936f6e56.chunk.js": "/cyberpsychonaut/static/js/787.936f6e56.chunk.js",
     "static/media/logo.svg": "/cyberpsychonaut/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cyberpsychonaut/index.html",
     "main.073c9b0a.css.map": "/cyberpsychonaut/static/css/main.073c9b0a.css.map",
-    "main.41228fb4.js.map": "/cyberpsychonaut/static/js/main.41228fb4.js.map",
+    "main.bfd89952.js.map": "/cyberpsychonaut/static/js/main.bfd89952.js.map",
     "787.936f6e56.chunk.js.map": "/cyberpsychonaut/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.41228fb4.js"
+    "static/js/main.bfd89952.js"
   ]
 }
