@@ -2,7 +2,7 @@
   "name": "cyberpsychonaut.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rodruiz425.github.io/cyberpsychonaut",
+  "homepage": "https://cyber-psychonaut.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
