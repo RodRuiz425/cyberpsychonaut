@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && echo 'cyber-psychonaut.com' > ./build/CNAME ",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
