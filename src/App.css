@@ -1,15 +1,12 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
 .App {
   text-align: center;
+  background-color: #100F12;
+
 }
 
-.App-logotipo {
-  height: 40vmin;
-  pointer-events: none;
-}
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logotipo {
@@ -29,15 +26,46 @@
   font-family: 'Montserrat', sans-serif;
 }
 
-.App-link {
-  color: #61dafb;
+.GalleryComponent {
+  background-color: #100F12;
+  width: 70vw;
+  margin-top: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.GalleryContainer {
+  background-color: #100F12;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-top: 10vh;
 }
+
+.Navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  background-color: #19181b;
+  width: 100%;
+  margin-bottom: 0;
+  border-bottom: 3px solid #DCDFE7; /* White border at the bottom */
+}
+
+.Navigation ul li {
+  display: inline;
+  list-style-type: none;
+}
+
+.Navigation .logo img{
+  width: 250px; /* Adjust the size as needed */
+  height: auto; /* Maintain aspect ratio */
+  padding-left: 15px;
+}
+
+.Navigation .logotipo img{
+  width: 50px; /* Adjust the size as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
