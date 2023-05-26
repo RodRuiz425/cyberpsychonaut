@@ -1,6 +1,7 @@
 import logotipo from './img/loading.png';
 import logo from './img/logo.png';
-import GalleryComponent from './components/galleryComponent';
+// import GalleryComponent from './components/galleryComponent';
+import DashboardComponent from './components/dashboardComponent';
 import './App.css';
 
 function App() {
@@ -17,8 +18,11 @@ function App() {
             </li>
           </ul>
         </div>
-          <div className='GalleryContainer'>
+          {/* <div className='GalleryContainer'>
             <GalleryComponent className="Gallery"/>
+          </div> */}
+          <div className='DashboardComponent'>
+            <DashboardComponent/>
           </div>
       </header>
     </div>
