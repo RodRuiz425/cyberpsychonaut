@@ -12,7 +12,6 @@ import SivanandaPNG from '../img/Dashboard/sivananda.png';
 
 const DashboardComponent = () => (
    <div>
-      <h1>Inicio</h1>
       <div className='dashGridContainer'>
         <div className='dashGrid-item'>
             <img src={HuxleyPNG} alt="Aldous Huxley" />
