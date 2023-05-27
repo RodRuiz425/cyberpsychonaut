@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd4f03d6.css",
-    "main.js": "/static/js/main.b424202d.js",
+    "main.css": "/static/css/main.e69ba042.css",
+    "main.js": "/static/js/main.41afa9c0.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/loading.png": "/static/media/loading.7f157111673f1e6a87ad.png",
     "static/media/huxley.png": "/static/media/huxley.8d739f80e3e97469ea84.png",
@@ -14,14 +14,15 @@
     "static/media/sivananda.png": "/static/media/sivananda.ba6cb4cc1bfd6facf449.png",
     "static/media/tsondru.png": "/static/media/tsondru.307042383c6c1c8ef731.png",
     "static/media/aleistercrowley.png": "/static/media/aleistercrowley.924f5f2cbd611044d669.png",
+    "static/media/forgotten-futurist.rg-regular.otf": "/static/media/forgotten-futurist.rg-regular.6a786390507660fdaca4.otf",
     "static/media/logo.png": "/static/media/logo.8fdf5cfddcec825743b4.png",
     "index.html": "/index.html",
-    "main.cd4f03d6.css.map": "/static/css/main.cd4f03d6.css.map",
-    "main.b424202d.js.map": "/static/js/main.b424202d.js.map",
+    "main.e69ba042.css.map": "/static/css/main.e69ba042.css.map",
+    "main.41afa9c0.js.map": "/static/js/main.41afa9c0.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd4f03d6.css",
-    "static/js/main.b424202d.js"
+    "static/css/main.e69ba042.css",
+    "static/js/main.41afa9c0.js"
   ]
 }
