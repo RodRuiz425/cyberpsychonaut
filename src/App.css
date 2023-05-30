@@ -8,7 +8,6 @@
 .App {
   text-align: center;
   background-color: #100F12;
-
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -107,5 +106,6 @@
 
 .dashGrid-item:hover{
   border: 2px solid #D6DEE6;
-  background-color: #100F12;
+  background: rgb(58,44,73);
+  background: radial-gradient(circle, rgba(58,44,73,1) 0%, rgba(20,18,27,1) 35%, rgba(0,0,0,1) 100%);
 }
