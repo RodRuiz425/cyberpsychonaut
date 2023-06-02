@@ -108,7 +108,7 @@
 .dashGrid-item{
   padding: 20px;
   border: 2px solid #726E76;
-  border-radius: 7px;
+  /* border-radius: 7px; */
   padding: 0;
   margin: 0;
 }
@@ -124,7 +124,6 @@
   object-fit: cover;
   background-size: cover;
   background-repeat: no-repeat;
-  padding: 0;
   margin: 0;
 }
 
