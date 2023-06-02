@@ -1,6 +1,6 @@
 import React from 'react';
-import AleisterCrowleyPNG from '../img/Dashboard/aleistercrowley.png';
-import HuxleyPNG from '../img/Dashboard/huxley.png';
+import AleisterCrowleyPNG from '../img/Dashboard/crowleyD.png';
+import HuxleyPNG from '../img/Dashboard/huxleyD.png';
 import JungPNG from '../img/Dashboard/jung.png';
 import CastanedaPNG from '../img/Dashboard/castaneda.png';
 import CampbellPNG from '../img/Dashboard/campbell.png';
@@ -9,6 +9,9 @@ import LaoTsePNG from '../img/Dashboard/laotse.png';
 import EliadePNG from '../img/Dashboard/eliade.png';
 import RumiPNG from '../img/Dashboard/rumi.png';
 import SivanandaPNG from '../img/Dashboard/sivananda.png';
+
+import HuxleyD from '../img/Dashboard/huxleyD.png';
+import CrowleyD from '../img/Dashboard/crowleyD.png';
 
 const DashboardComponent = () => (
    <div>
