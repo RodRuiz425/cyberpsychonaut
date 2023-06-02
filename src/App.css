@@ -95,6 +95,9 @@
   @media (max-width: 768px) {
     grid-template-columns: repeat(2, 1fr);
   }
+  @media (min-width: 780px) and (max-width: 1400px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .dashGrid-item{
