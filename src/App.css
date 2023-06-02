@@ -55,7 +55,7 @@
   width: 100%;
   margin-bottom: 0;
   padding-bottom: 0;
-  border-bottom: 1px solid #DCDFE7; /* White border at the bottom */
+  border-bottom: 1px solid #726E76; /* White border at the bottom */
 }
 .Navigation ul li {
   display: inline;
@@ -63,14 +63,18 @@
 }
 
 .Navigation .logo img{
-  width: 270px; /* Adjust the size as needed */
+  width: 200px; /* Adjust the size as needed */
   height: auto; /* Maintain aspect ratio */
   padding-left: 15px;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .Navigation .logotipo img{
-  width: 43px; /* Adjust the size as needed */
+  width: 33px; /* Adjust the size as needed */
   height: auto; /* Maintain aspect ratio */
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .DashboardComponent{
@@ -95,7 +99,7 @@
 
 .dashGrid-item{
   padding: 20px;
-  border: 2px solid #9AA0A6;
+  border: 2px solid #726E76;
   border-radius: 7px;
 }
 
@@ -108,4 +112,5 @@
   border: 2px solid #D6DEE6;
   background: rgb(58,44,73);
   background: radial-gradient(circle, rgba(58,44,73,1) 0%, rgba(20,18,27,1) 35%, rgba(0,0,0,1) 100%);
+
 }
