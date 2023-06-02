@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff121e4f.css",
-    "main.js": "/static/js/main.41afa9c0.js",
+    "main.css": "/static/css/main.5841342e.css",
+    "main.js": "/static/js/main.dd715981.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
+    "static/media/sivananda.png": "/static/media/sivananda.6d1641f997805c140c8d.png",
+    "static/media/campbell.png": "/static/media/campbell.4994c41263263131ae00.png",
+    "static/media/rumi.png": "/static/media/rumi.c8f785ac614ade370d3b.png",
+    "static/media/crowleyD.png": "/static/media/crowleyD.14d62b3eddc476b772d8.png",
+    "static/media/castaneda.png": "/static/media/castaneda.773328fcb5e127aaff9e.png",
+    "static/media/eliade.png": "/static/media/eliade.365f3462892974e74e16.png",
+    "static/media/laotse.png": "/static/media/laotse.86937407182bdea9ecd8.png",
+    "static/media/tsondru.png": "/static/media/tsondru.fc32bc97cfbb8d1a407c.png",
+    "static/media/huxleyD.png": "/static/media/huxleyD.78a6407fce8881844962.png",
+    "static/media/jung.png": "/static/media/jung.14f96af33ca070852a4e.png",
     "static/media/loading.png": "/static/media/loading.7f157111673f1e6a87ad.png",
-    "static/media/huxley.png": "/static/media/huxley.8d739f80e3e97469ea84.png",
-    "static/media/rumi.png": "/static/media/rumi.ce957dd472ddc2062d1b.png",
-    "static/media/campbell.png": "/static/media/campbell.89ed7aead4104559b62c.png",
-    "static/media/laotse.png": "/static/media/laotse.daebb6286029d5835667.png",
-    "static/media/castaneda.png": "/static/media/castaneda.e0fbb0d54e849067b892.png",
-    "static/media/jung.png": "/static/media/jung.10d8f33692e4d1872ea2.png",
-    "static/media/eliade.png": "/static/media/eliade.7adf569854d197eedcc3.png",
-    "static/media/sivananda.png": "/static/media/sivananda.ba6cb4cc1bfd6facf449.png",
-    "static/media/tsondru.png": "/static/media/tsondru.307042383c6c1c8ef731.png",
-    "static/media/aleistercrowley.png": "/static/media/aleistercrowley.924f5f2cbd611044d669.png",
     "static/media/forgotten-futurist.rg-regular.otf": "/static/media/forgotten-futurist.rg-regular.6a786390507660fdaca4.otf",
     "static/media/logo.png": "/static/media/logo.8fdf5cfddcec825743b4.png",
     "index.html": "/index.html",
-    "main.ff121e4f.css.map": "/static/css/main.ff121e4f.css.map",
-    "main.41afa9c0.js.map": "/static/js/main.41afa9c0.js.map",
+    "main.5841342e.css.map": "/static/css/main.5841342e.css.map",
+    "main.dd715981.js.map": "/static/js/main.dd715981.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff121e4f.css",
-    "static/js/main.41afa9c0.js"
+    "static/css/main.5841342e.css",
+    "static/js/main.dd715981.js"
   ]
 }
