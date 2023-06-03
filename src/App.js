@@ -1,7 +1,7 @@
 import logotipo from './img/loading.png';
 import logo from './img/logo.png';
-// import GalleryComponent from './components/galleryComponent';
-import DashboardComponent from './components/dashboardComponent';
+// import GalleryComponent from './components/GalleryComponent';
+import DashboardComponent from './components/DashboardComponent';
 import './App.css';
 
 function App() {

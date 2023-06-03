@@ -10,9 +10,6 @@ import EliadePNG from '../img/Dashboard/eliade.png';
 import RumiPNG from '../img/Dashboard/rumi.png';
 import SivanandaPNG from '../img/Dashboard/sivananda.png';
 
-import HuxleyD from '../img/Dashboard/huxleyD.png';
-import CrowleyD from '../img/Dashboard/crowleyD.png';
-
 const DashboardComponent = () => (
    <div>
       <div className='dashGridContainer'>
