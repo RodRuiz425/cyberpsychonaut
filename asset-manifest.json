@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3563c270.css",
+    "main.css": "/static/css/main.d3d5fe28.css",
     "main.js": "/static/js/main.dd715981.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/sivananda.png": "/static/media/sivananda.6d1641f997805c140c8d.png",
@@ -14,15 +14,15 @@
     "static/media/huxleyD.png": "/static/media/huxleyD.78a6407fce8881844962.png",
     "static/media/jung.png": "/static/media/jung.14f96af33ca070852a4e.png",
     "static/media/loading.png": "/static/media/loading.7f157111673f1e6a87ad.png",
-    "static/media/Play-Regular.ttf": "/static/media/Play-Regular.e0424c5771f87080b05e.ttf",
+    "static/media/ChakraPetch-Regular.ttf": "/static/media/ChakraPetch-Regular.f4019d33aae25f6d8eaf.ttf",
     "static/media/logo.png": "/static/media/logo.8fdf5cfddcec825743b4.png",
     "index.html": "/index.html",
-    "main.3563c270.css.map": "/static/css/main.3563c270.css.map",
+    "main.d3d5fe28.css.map": "/static/css/main.d3d5fe28.css.map",
     "main.dd715981.js.map": "/static/js/main.dd715981.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3563c270.css",
+    "static/css/main.d3d5fe28.css",
     "static/js/main.dd715981.js"
   ]
 }
