@@ -28,7 +28,7 @@
   color: white;
   font-family: 'futurist', sans-serif;
   font-weight: 100;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
 }
 
 .GalleryComponent {
@@ -81,12 +81,14 @@
 .DashboardComponent{
   background-color: #161617;
   color: #F0EBFA;
-  width: 90vw;
+  width: 70vw;
   padding: 2.5vw;
   margin: 12vh;
   border-radius: 10px;
+
   @media (max-width: 768px) {
     margin: 10vh;
+    width: 90vw;
   }
 }
 
@@ -129,7 +131,6 @@
 
 .dashGrid-item:hover{
   border: 2px solid #D6DEE6;
-  background: rgb(58,44,73);
-  background: radial-gradient(circle, rgba(58,44,73,1) 0%, rgba(20,18,27,1) 35%, rgba(0,0,0,1) 100%);
-
+  background: rgb(22,19,25);
+  background: radial-gradient(circle, rgba(22,19,25,1) 0%, rgba(18,16,27,1) 72%, rgba(2,0,10,1) 100%);
 }
