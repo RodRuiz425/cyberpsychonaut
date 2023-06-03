@@ -1,8 +1,8 @@
 @import "~react-image-gallery/styles/css/image-gallery.css";
 @font-face {
-  font-family: 'play';
+  font-family: 'chakra';
   /* src: url('forgotten-futurist.rg-regular.otf') format('truetype'); */
-  src: url('Play-Regular.ttf') format('truetype');
+  src: url('ChakraPetch-Regular.ttf') format('truetype');
 }
 
 
@@ -26,7 +26,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-  font-family: 'play', sans-serif;
+  font-family: 'chakra', sans-serif;
   font-weight: 100;
   letter-spacing: 1px;
 }
