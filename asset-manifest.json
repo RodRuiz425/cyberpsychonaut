@@ -1,28 +1,40 @@
 {
   "files": {
-    "main.css": "/static/css/main.d3d5fe28.css",
-    "main.js": "/static/js/main.dd715981.js",
+    "main.css": "/static/css/main.3a495d19.css",
+    "main.js": "/static/js/main.717224b3.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
+    "static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.png": "/static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.374e0312145b155f54e3.png",
     "static/media/sivananda.png": "/static/media/sivananda.6d1641f997805c140c8d.png",
+    "static/media/DALL·E 2023-05-23 21.44.26 - medieval manuscript pentagram hindu yantra catholic.png": "/static/media/DALL·E 2023-05-23 21.44.26 - medieval manuscript pentagram hindu yantra catholic.5c934ea29a6d310e7695.png",
+    "static/media/DALL·E 2023-04-10 01.26.34 - hindu yantra from medieval european manuscript.png": "/static/media/DALL·E 2023-04-10 01.26.34 - hindu yantra from medieval european manuscript.9bbaf9ac3ad4b1c0807d.png",
+    "static/media/DALL·E 2023-04-10 01.27.05 - hindu yantra from medieval catholic manuscript.png": "/static/media/DALL·E 2023-04-10 01.27.05 - hindu yantra from medieval catholic manuscript.67b33013faf56e3b1398.png",
     "static/media/campbell.png": "/static/media/campbell.4994c41263263131ae00.png",
     "static/media/rumi.png": "/static/media/rumi.c8f785ac614ade370d3b.png",
+    "static/media/aleistercrowley1.png": "/static/media/aleistercrowley1.75a24eff7142cd3fe1f4.png",
     "static/media/crowleyD.png": "/static/media/crowleyD.14d62b3eddc476b772d8.png",
+    "static/media/DALL·E 2022-10-09 22.59.20 - Pyschonaut DMT vision.png": "/static/media/DALL·E 2022-10-09 22.59.20 - Pyschonaut DMT vision.7ceeff26ef4682548760.png",
+    "static/media/DALL·E 2022-12-17 01.43.41 - hermes trismegistus in fractal palace.png": "/static/media/DALL·E 2022-12-17 01.43.41 - hermes trismegistus in fractal palace.dbaf7a93262d9ff7d4b3.png",
+    "static/media/DALL·E 2023-04-14 20.17.24 - medieval manuscript of alchemy.png": "/static/media/DALL·E 2023-04-14 20.17.24 - medieval manuscript of alchemy.efd15aa57b8d27cc10c5.png",
     "static/media/castaneda.png": "/static/media/castaneda.773328fcb5e127aaff9e.png",
+    "static/media/carljung1.png": "/static/media/carljung1.41729502b56f175f04cf.png",
+    "static/media/DALL·E 2023-04-11 01.20.56 - sacred geometry fractal hd.png": "/static/media/DALL·E 2023-04-11 01.20.56 - sacred geometry fractal hd.33d0b44cf3e803495d08.png",
     "static/media/eliade.png": "/static/media/eliade.365f3462892974e74e16.png",
+    "static/media/DALL·E 2023-05-11 20.02.29 - medieval manuscript magic hindu yantra pentagram.png": "/static/media/DALL·E 2023-05-11 20.02.29 - medieval manuscript magic hindu yantra pentagram.a151f002e6a8956540c0.png",
     "static/media/laotse.png": "/static/media/laotse.86937407182bdea9ecd8.png",
     "static/media/tsondru.png": "/static/media/tsondru.fc32bc97cfbb8d1a407c.png",
+    "static/media/DALL·E 2023-02-24 23.17.48.png": "/static/media/DALL·E 2023-02-24 23.17.48.d4bb9f06f2b886017e75.png",
     "static/media/huxleyD.png": "/static/media/huxleyD.78a6407fce8881844962.png",
     "static/media/jung.png": "/static/media/jung.14f96af33ca070852a4e.png",
     "static/media/loading.png": "/static/media/loading.7f157111673f1e6a87ad.png",
     "static/media/ChakraPetch-Regular.ttf": "/static/media/ChakraPetch-Regular.f4019d33aae25f6d8eaf.ttf",
     "static/media/logo.png": "/static/media/logo.8fdf5cfddcec825743b4.png",
     "index.html": "/index.html",
-    "main.d3d5fe28.css.map": "/static/css/main.d3d5fe28.css.map",
-    "main.dd715981.js.map": "/static/js/main.dd715981.js.map",
+    "main.3a495d19.css.map": "/static/css/main.3a495d19.css.map",
+    "main.717224b3.js.map": "/static/js/main.717224b3.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3d5fe28.css",
-    "static/js/main.dd715981.js"
+    "static/css/main.3a495d19.css",
+    "static/js/main.717224b3.js"
   ]
 }
