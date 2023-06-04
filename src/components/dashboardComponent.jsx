@@ -1,4 +1,6 @@
 import React from 'react';
+import { NavLink } from 'react-router-dom';
+
 import AleisterCrowleyPNG from '../img/Dashboard/crowleyD.png';
 import HuxleyPNG from '../img/Dashboard/huxleyD.png';
 import JungPNG from '../img/Dashboard/jung.png';
@@ -11,22 +13,28 @@ import RumiPNG from '../img/Dashboard/rumi.png';
 import SivanandaPNG from '../img/Dashboard/sivananda.png';
 
 const DashboardComponent = () => (
-   <div>
+   <div className='DashboardComponent'>
       <div className='dashGridContainer'>
         <div className='dashGrid-item'>
-            <img src={HuxleyPNG} alt="Aldous Huxley" />
-            <hr/>
-            <h2>Aldous Huxley</h2>
+            <NavLink to='/aldous-huxley' className='navlink'>
+                <img src={HuxleyPNG} alt="Aldous Huxley" />
+                <hr/>
+                <h2>Aldous Huxley</h2>
+            </NavLink>
         </div>
         <div className='dashGrid-item'>
-            <img src={AleisterCrowleyPNG} alt="Aleister Crowley" />
-            <hr/>
-            <h2>Aleister Crowley</h2>
+            <NavLink to='/aleister-crowley' className='navlink'>
+                <img src={AleisterCrowleyPNG} alt="Aleister Crowley" />
+                <hr/>
+                <h2>Aleister Crowley</h2>
+            </NavLink>
         </div>
         <div className='dashGrid-item'>
+            <NavLink to='/carl-jung' className='navlink'>
             <img src={JungPNG} alt="Carl Jung" />
             <hr/>
             <h2>Carl Gustav Jung</h2>
+            </NavLink>
         </div>
         <div className='dashGrid-item'>
             <img src={CastanedaPNG} alt="Carlos Castaneda" />

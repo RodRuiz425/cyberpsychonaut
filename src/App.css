@@ -25,10 +25,10 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(220, 215, 221);
   font-family: 'chakra', sans-serif;
   font-weight: 100;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
 }
 
 .GalleryComponent {
@@ -43,6 +43,11 @@
   align-items: center;
   display: flex;
   margin-top: 10vh;
+}
+
+.navlink{
+  text-decoration: none;
+  color: rgb(220, 215, 221);
 }
 
 .Navigation {
@@ -83,7 +88,7 @@
   color: #F0EBFA;
   width: 70vw;
   padding: 2.5vw;
-  margin: 12vh;
+  margin: 15vh;
   border-radius: 10px;
 
   @media (max-width: 768px) {
@@ -113,6 +118,7 @@
   /* border-radius: 7px; */
   padding: 0;
   margin: 0;
+  transition: background-color 0.3s ease;
 }
 
 .dashGrid-item hr{
@@ -133,4 +139,41 @@
   border: 2px solid #D6DEE6;
   background: rgb(22,19,25);
   background: radial-gradient(circle, rgba(22,19,25,1) 0%, rgba(18,16,27,1) 72%, rgba(2,0,10,1) 100%);
+ }
+
+.pageContainer{
+  background-color: #161617;
+  color: #F0EBFA;
+  width: 70vw;
+  padding: 2.5vw;
+  margin: 10vh;
+  border-radius: 10px;
+
+  @media (max-width: 768px) {
+    margin: 10vh;
+    width: 90vw;
+  }
+}
+
+.pageContainer h1{
+  text-align: left;
+  margin-left: 5vw;
+}
+
+.yVideo iframe{
+  width: 50vw; /* Ajusta el ancho según tus necesidades */
+  height: 70vh; /* Ajusta la altura según tus necesidades */
+
+  @media (max-width: 768px) {
+    width: 45vh; /* Ajusta el ancho según tus necesidades */
+    height: 70vw; /* Ajusta la altura según tus necesidades */
+  }
+}
+
+.textoVideo{
+  align-items: center;
+  text-align: justify;
+  margin-left: 15vw;
+  margin-right: 15vw;
+  font-size: medium;
 }
