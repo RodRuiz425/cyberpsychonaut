@@ -1,6 +1,5 @@
 import logotipo from './img/loading.png';
-import logo from './img/logo.png';
-// import GalleryComponent from './components/GalleryComponent';
+// import logo from './img/logo.png';
 import DashboardComponent from './components/DashboardComponent';
 import { BrowserRouter, Route, Routes, NavLink} from 'react-router-dom';
 import './App.css';
@@ -23,11 +22,11 @@ function App() {
               <img src={logotipo} className="App-logotipo" alt="logotipo" />
               </NavLink>
             </li>
-            <li className='logo'>
+            {/* <li className='logo'>
               <NavLink to='/'>
               <img src={logo} className="App-logo" alt="logo" />
               </NavLink>
-            </li>
+            </li> */}
           </ul>
         
         </div>

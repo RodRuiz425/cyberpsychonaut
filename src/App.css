@@ -59,28 +59,35 @@
   z-index: 100;
   background-color: #161617;
   width: 100%;
-  margin-bottom: 0;
-  padding-bottom: 0;
+  margin: 0;
+  padding: 0;
   border-bottom: 1px solid #726E76; /* White border at the bottom */
+}
+
+.Navigation ul{
+  margin: 15px;
+  padding: 0;
 }
 .Navigation ul li {
   display: inline;
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 .Navigation .logo img{
   width: 220px; /* Adjust the size as needed */
   height: auto; /* Maintain aspect ratio */
-  padding-left: 15px;
+  padding-left: 105px;
   margin-bottom: 0;
   padding-bottom: 0;
 }
 
 .Navigation .logotipo img{
-  width: 33px; /* Adjust the size as needed */
+  width: 350px; /* Adjust the size as needed */
   height: auto; /* Maintain aspect ratio */
-  margin-bottom: 0;
-  padding-bottom: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .DashboardComponent{
