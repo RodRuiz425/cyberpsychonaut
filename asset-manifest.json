@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5304981.css",
-    "main.js": "/static/js/main.717224b3.js",
+    "main.css": "/static/css/main.823e7333.css",
+    "main.js": "/static/js/main.228943ec.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.png": "/static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.374e0312145b155f54e3.png",
     "static/media/sivananda.png": "/static/media/sivananda.6d1641f997805c140c8d.png",
@@ -25,16 +25,15 @@
     "static/media/DALL·E 2023-02-24 23.17.48.png": "/static/media/DALL·E 2023-02-24 23.17.48.d4bb9f06f2b886017e75.png",
     "static/media/huxleyD.png": "/static/media/huxleyD.78a6407fce8881844962.png",
     "static/media/jung.png": "/static/media/jung.14f96af33ca070852a4e.png",
-    "static/media/loading.png": "/static/media/loading.7f157111673f1e6a87ad.png",
     "static/media/ChakraPetch-Regular.ttf": "/static/media/ChakraPetch-Regular.f4019d33aae25f6d8eaf.ttf",
-    "static/media/logo.png": "/static/media/logo.8fdf5cfddcec825743b4.png",
+    "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
-    "main.d5304981.css.map": "/static/css/main.d5304981.css.map",
-    "main.717224b3.js.map": "/static/js/main.717224b3.js.map",
+    "main.823e7333.css.map": "/static/css/main.823e7333.css.map",
+    "main.228943ec.js.map": "/static/js/main.228943ec.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d5304981.css",
-    "static/js/main.717224b3.js"
+    "static/css/main.823e7333.css",
+    "static/js/main.228943ec.js"
   ]
 }
