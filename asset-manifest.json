@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.758a57d8.css",
+    "main.css": "/static/css/main.2a43bc86.css",
     "main.js": "/static/js/main.98304759.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.png": "/static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.374e0312145b155f54e3.png",
@@ -28,12 +28,12 @@
     "static/media/ChakraPetch-Regular.ttf": "/static/media/ChakraPetch-Regular.f4019d33aae25f6d8eaf.ttf",
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
-    "main.758a57d8.css.map": "/static/css/main.758a57d8.css.map",
+    "main.2a43bc86.css.map": "/static/css/main.2a43bc86.css.map",
     "main.98304759.js.map": "/static/js/main.98304759.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.758a57d8.css",
+    "static/css/main.2a43bc86.css",
     "static/js/main.98304759.js"
   ]
 }
