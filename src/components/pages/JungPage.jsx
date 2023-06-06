@@ -33,17 +33,19 @@ const images = [
     <div className='pageContainer'>
         <h1>Carl Gustav Jung</h1>
         <hr/>
+        <div className='GalleryContainer'>
         <ImageGallery 
          items={images} 
          showPlayButton={false}
          disableThumbnailScroll={false}
         />
+        </div>
         <br/>
         <h2>Videos</h2>
         <hr/>
         <div className='yVideo'>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/0eMarN-Qxas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-            <h3>Carl Gustav Jung, "Señor del mundo subterráneo"</h3>
+            <h4>Carl Gustav Jung, "Señor del mundo subterráneo"</h4>
         </div>
         <p className='textoVideo'>
         Carl Gustav Jung es una de las grandes figuras de la psicología y psiquiatría contemporáneas. Quizá el más interesante discípulo de Sigmund Freud. Influyentes en sus 

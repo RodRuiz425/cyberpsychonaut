@@ -1,6 +1,6 @@
 import React from 'react';
 import ImageGallery from 'react-image-gallery';
-import 'react-image-gallery/styles/css/image-gallery.css';
+// import 'react-image-gallery/styles/css/image-gallery.css';
 
 const images = [
   {
@@ -29,11 +29,13 @@ const images = [
     <div className='pageContainer'>
         <h1>Aleister Crowley</h1>
         <hr/>
-        <ImageGallery 
-         items={images} 
-         showPlayButton={false}
-         disableThumbnailScroll={false}
-        />
+        <div className='GalleryContainer'>
+          <ImageGallery 
+          items={images} 
+          showPlayButton={false}
+          disableThumbnailScroll={false}
+          />
+        </div>
    </div>
  );
  
