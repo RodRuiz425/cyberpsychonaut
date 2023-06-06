@@ -128,10 +128,15 @@
 .dashGrid-item{
   padding: 20px;
   border: 2px solid #726E76;
-  border-radius: 5px;
+  border-radius: 7px;
   padding: 0;
   margin: 0;
   transition: background-color 0.3s ease;
+}
+
+.dashGrid-item img{
+  border-top-left-radius: 7px; /* Cambia el valor para ajustar el redondeo */
+  border-top-right-radius: 7px; 
 }
 
 .dashGrid-item hr{
