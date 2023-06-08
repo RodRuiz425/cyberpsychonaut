@@ -35,6 +35,7 @@ const images = [
          disableThumbnailScroll={false}
         />
         </div>
+        <br/>
    </div>
  );
  

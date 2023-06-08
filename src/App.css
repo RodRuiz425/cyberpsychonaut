@@ -195,23 +195,27 @@
 }
 
 .yVideo iframe{
-  width: 50vw; /* Ajusta el ancho según tus necesidades */
-  height: 70vh; /* Ajusta la altura según tus necesidades */
+  width: 60vw; /* Ajusta el ancho según tus necesidades */
+  height: 55vh; /* Ajusta la altura según tus necesidades */
 
   @media (max-width: 768px) {
-    width: 45vh; /* Ajusta el ancho según tus necesidades */
-    height: 70vw; /* Ajusta la altura según tus necesidades */
+    width: 55vh; /* Ajusta el ancho según tus necesidades */
+    height: 45vw; /* Ajusta la altura según tus necesidades */
   }
   @media(max-width: 500px) {
-    width: 30vh; /* Ajusta el ancho según tus necesidades */
-    height: 60vw; /* Ajusta la altura según tus necesidades */
+    width: 70vw; /* Ajusta el ancho según tus necesidades */
+    height: 50vw; /* Ajusta la altura según tus necesidades */
   }
 }
 
 .textoVideo{
   align-items: center;
   text-align: justify;
-  margin-left: 15vw;
-  margin-right: 15vw;
+  margin-left: 10vw;
+  margin-right: 10vw;
   font-size: medium;
+  @media (max-width: 768px) {
+    margin-left: 5vw;
+    margin-right: 5vw;
+  }
 }
