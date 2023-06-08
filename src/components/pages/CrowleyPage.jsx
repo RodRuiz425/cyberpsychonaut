@@ -1,8 +1,13 @@
 import React from 'react';
 import ImageGallery from 'react-image-gallery';
-// import 'react-image-gallery/styles/css/image-gallery.css';
+import 'react-image-gallery/styles/css/image-gallery.css';
 
+// import 'react-image-gallery/styles/css/image-gallery.css';
 const images = [
+    // {
+  //   original: require('../../img/Pages/AldousHuxley/aldoushuxley1.png'),
+  //   thumbnail: require('../../img/Pages/AldousHuxley/aldoushuxley1.png'),
+  // },
   {
     original: require('../../img/Pages/AleisterCrowley/DALL·E 2023-04-10 01.26.34 - hindu yantra from medieval european manuscript.png'),
     thumbnail: require('../../img/Pages/AleisterCrowley/DALL·E 2023-04-10 01.26.34 - hindu yantra from medieval european manuscript.png'),
@@ -27,14 +32,14 @@ const images = [
 
  const CrowleyPage = () => (
     <div className='pageContainer'>
-        <h1>Aleister Crowley</h1>
+        <h1>Aldous Huxley</h1>
         <hr/>
         <div className='GalleryContainer'>
-          <ImageGallery 
-          items={images} 
-          showPlayButton={false}
-          disableThumbnailScroll={false}
-          />
+        <ImageGallery 
+         items={images} 
+         showPlayButton={false}
+         disableThumbnailScroll={false}
+        />
         </div>
    </div>
  );

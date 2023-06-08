@@ -49,6 +49,17 @@
     width: 80vw;
     padding-left: 5vw;
   }
+  @media (max-width: 412px){
+    width: 40vw;
+    padding: 0;
+    margin: 0;
+  }
+  @media(max-width: 390px;){
+    width: 20vw;
+    padding: 0;
+    margin: 0;
+  }
+
 }
 
 .navlink{
@@ -82,7 +93,7 @@
 }
 
 .Navigation .logo img{
-  width: 220px; /* Adjust the size as needed */
+  width: 150px; /* Adjust the size as needed */
   height: auto; /* Maintain aspect ratio */
   padding-left: 105px;
   margin-bottom: 0;
@@ -90,10 +101,11 @@
 }
 
 .Navigation .logotipo img{
-  width: 350px; /* Adjust the size as needed */
+  width: 250px; /* Adjust the size as needed */
   height: auto; /* Maintain aspect ratio */
   margin: 0;
-  padding: 0;
+  padding-top: 5px;
+  padding-left: 2vw;
 }
 
 .DashboardComponent{
@@ -190,6 +202,10 @@
   @media (max-width: 768px) {
     width: 45vh; /* Ajusta el ancho según tus necesidades */
     height: 70vw; /* Ajusta la altura según tus necesidades */
+  }
+  @media(max-width: 500px) {
+    width: 30vh; /* Ajusta el ancho según tus necesidades */
+    height: 60vw; /* Ajusta la altura según tus necesidades */
   }
 }
 
