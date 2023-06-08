@@ -77,7 +77,7 @@
   width: 100%;
   margin: 0;
   padding: 0;
-  border-bottom: 1px solid #726E76; /* White border at the bottom */
+  border-bottom: 1px solid #3d3b3f; /* White border at the bottom */
 }
 
 .Navigation ul{
@@ -129,7 +129,7 @@
   
   /* Estilos para pantallas más pequeñas */
   @media (max-width: 768px) {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
   @media (min-width: 780px) and (max-width: 1400px) {
     grid-template-columns: repeat(3, 1fr);
@@ -138,16 +138,23 @@
 
 .dashGrid-item{
   padding: 20px;
-  border: 2px solid #726E76;
+  /* border: 2px solid #726E76; */
   border-radius: 7px;
-  padding: 0;
+  padding: 3px;
   margin: 0;
   transition: background-color 0.3s ease;
+  list-style: none;
+
+  @media (max-width: 768px) {
+    font-size: 8px;
+  }
 }
 
 .dashGrid-item img{
-  border-top-left-radius: 7px; /* Cambia el valor para ajustar el redondeo */
-  border-top-right-radius: 7px; 
+  /* border-top-left-radius: 7px; /* Cambia el valor para ajustar el redondeo */
+  /* border-top-right-radius: 7px; */
+  border-radius: 7px;
+  margin: 3px;
 }
 
 .dashGrid-item hr{
@@ -161,13 +168,12 @@
   object-fit: cover;
   background-size: cover;
   background-repeat: no-repeat;
-  margin: 0;
+  margin: 1px;
 }
 
 .dashGrid-item:hover{
-  border: 2px solid #D6DEE6;
-  background: rgb(15,13,24);
-  background: linear-gradient(0deg, rgba(15,13,24,1) 0%, rgba(34,28,47,1) 20%);
+  background: rgb(66,57,80);
+  background: radial-gradient(circle, rgba(66,57,80,1) 0%, rgba(38,37,41,1) 86%);
  }
 
 .pageContainer{
