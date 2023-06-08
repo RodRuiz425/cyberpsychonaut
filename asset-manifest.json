@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ed83438.css",
-    "main.js": "/static/js/main.6e83d7f8.js",
+    "main.css": "/static/css/main.7b5d93a9.css",
+    "main.js": "/static/js/main.a6521dea.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.png": "/static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.374e0312145b155f54e3.png",
     "static/media/sivananda.png": "/static/media/sivananda.6d1641f997805c140c8d.png",
@@ -28,12 +28,12 @@
     "static/media/ChakraPetch-Regular.ttf": "/static/media/ChakraPetch-Regular.f4019d33aae25f6d8eaf.ttf",
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
-    "main.9ed83438.css.map": "/static/css/main.9ed83438.css.map",
-    "main.6e83d7f8.js.map": "/static/js/main.6e83d7f8.js.map",
+    "main.7b5d93a9.css.map": "/static/css/main.7b5d93a9.css.map",
+    "main.a6521dea.js.map": "/static/js/main.a6521dea.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9ed83438.css",
-    "static/js/main.6e83d7f8.js"
+    "static/css/main.7b5d93a9.css",
+    "static/js/main.a6521dea.js"
   ]
 }
