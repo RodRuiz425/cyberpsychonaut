@@ -9,23 +9,18 @@ const images = [
   // },
   {
     original: require('../../img/Pages/CarlJung/DALL·E 2022-10-09 22.59.20 - Pyschonaut DMT vision.png'),
-    thumbnail: require('../../img/Pages/CarlJung/DALL·E 2022-10-09 22.59.20 - Pyschonaut DMT vision.png'),
   },
   {
     original: require('../../img/Pages/CarlJung/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.png'),
-    thumbnail: require('../../img/Pages/CarlJung/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.png'),
   },
   {
     original: require('../../img/Pages/CarlJung/DALL·E 2023-04-11 01.20.56 - sacred geometry fractal hd.png'),
-    thumbnail: require('../../img/Pages/CarlJung/DALL·E 2023-04-11 01.20.56 - sacred geometry fractal hd.png'),
   },
   {
     original: require('../../img/Pages/CarlJung/DALL·E 2023-04-14 20.17.24 - medieval manuscript of alchemy.png'),
-    thumbnail: require('../../img/Pages/CarlJung/DALL·E 2023-04-14 20.17.24 - medieval manuscript of alchemy.png'),
   },
   {
     original: require('../../img/Pages/CarlJung/carljung1.png'),
-    thumbnail: require('../../img/Pages/CarlJung/carljung1.png'),
   },
 ];
 

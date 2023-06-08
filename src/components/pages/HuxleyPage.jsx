@@ -9,11 +9,9 @@ const images = [
   // },
   {
     original: require('../../img/Pages/AldousHuxley/DALL·E 2022-12-17 01.43.41 - hermes trismegistus in fractal palace.png'),
-    thumbnail: require('../../img/Pages/AldousHuxley/DALL·E 2022-12-17 01.43.41 - hermes trismegistus in fractal palace.png'),
   },
   {
     original: require('../../img/Pages/AldousHuxley/DALL·E 2023-02-24 23.17.48.png'),
-    thumbnail: require('../../img/Pages/AldousHuxley/DALL·E 2023-02-24 23.17.48.png'),
   },
 ];
 
@@ -26,6 +24,7 @@ const images = [
          items={images} 
          showPlayButton={false}
          disableThumbnailScroll={false}
+         thumbnailClass='tumbContainer'
         />
         </div>
         <br/>
