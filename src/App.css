@@ -196,6 +196,17 @@
   margin: 1.5vw;
 }
 
+.pageContainer h4{
+  @media (max-width: 768px) {
+    font-size: large;
+  }
+}
+.pageContainer p{
+  @media(max-width: 500px) {
+    font-size: 15px;
+  }
+}
+
 .pageContainer h1{
   text-align: left;
   margin-left: 5vw;
