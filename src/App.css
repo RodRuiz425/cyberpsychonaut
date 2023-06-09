@@ -43,7 +43,7 @@
   padding: 0;
   display: flex;
   align-items: center;
-  padding-left: 18vw;
+  padding-left: 15vw;
 
   @media (max-width: 768px) {
     width: 80vw;
@@ -177,17 +177,23 @@
  }
 
 .pageContainer{
-  background-color: #161617;
+  /* background-color: #161617; */
   color: #F0EBFA;
   width: 70vw;
-  padding: 2.5vw;
-  margin: 10vh;
+  padding: 1vw;
+  margin: 8vh;
   border-radius: 10px;
 
   @media (max-width: 768px) {
     margin: 10vh;
     width: 90vw;
   }
+}
+.pageContainer .pageSec{
+  background-color: #161617;
+  border-radius: 10px;
+  padding: 1vw;
+  margin: 1.5vw;
 }
 
 .pageContainer h1{
@@ -196,17 +202,14 @@
   color: #D6DEE6;
 }
 
-.pageContainer hr{
-  color: #D6DEE6;
-}
 
 .yVideo iframe{
-  width: 60vw; /* Ajusta el ancho según tus necesidades */
+  width: 50vw; /* Ajusta el ancho según tus necesidades */
   height: 55vh; /* Ajusta la altura según tus necesidades */
 
   @media (max-width: 768px) {
     width: 55vh; /* Ajusta el ancho según tus necesidades */
-    height: 45vw; /* Ajusta la altura según tus necesidades */
+    height: 50vw; /* Ajusta la altura según tus necesidades */
   }
   @media(max-width: 500px) {
     width: 70vw; /* Ajusta el ancho según tus necesidades */

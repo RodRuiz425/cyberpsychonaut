@@ -16,7 +16,8 @@ const images = [
 ];
 
  const HuxleyPage = () => (
-    <div className='pageContainer'>
+  <div className='pageContainer'>
+    <div className='pageSec'>
         <h1>Aldous Huxley</h1>
         <hr/>
         <div className='GalleryContainer'>
@@ -28,6 +29,8 @@ const images = [
         />
         </div>
         <br/>
+    </div>
+    <div className='pageSec'>
         <h2>Videos Recomendados</h2>
         <hr/>
         <div className='yVideo'>
@@ -37,7 +40,9 @@ const images = [
         <p className='textoVideo'>Novelista, ensayista y místico intelectual, Aldous Leonard Huxley nació en Inglaterra en 1894 en el seno de una destacada familia de literatos y científicos. 
           Entre sus obras más importantes figuran: Las puertas de la percepción. Cielo e infierno, Un mundo feliz, La filosofía perenne, La isla, El tiempo debe detenerse, 
           Los demonios de Loudun y Contrapunto. </p>
-   </div>
+    </div>
+  </div>
+
  );
  
  export default HuxleyPage;

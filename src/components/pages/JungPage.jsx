@@ -26,34 +26,39 @@ const images = [
 
  const JungPage = () => (
     <div className='pageContainer'>
+      <div className='pageSec'>
         <h1>Carl Gustav Jung</h1>
         <hr/>
         <div className='GalleryContainer'>
-        <ImageGallery 
-         items={images} 
-         showPlayButton={false}
-         disableThumbnailScroll={false}
-        />
+          <ImageGallery 
+          items={images} 
+          showPlayButton={false}
+          disableThumbnailScroll={false}
+          />
         </div>
         <br/>
+      </div>
+      <div className='pageSec'>
         <h2>Videos Recomendados</h2>
-        <hr/>
-        <div className='yVideo'>
+          <hr/>
+          <div className='yVideo'>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/0eMarN-Qxas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <h4>Carl Gustav Jung, "Señor del mundo subterráneo"</h4>
-        </div>
-        <p className='textoVideo'>
-        Carl Gustav Jung es una de las grandes figuras de la psicología y psiquiatría contemporáneas. Quizá el más interesante discípulo de Sigmund Freud. Influyentes en sus 
-        ideas fueron sus viajes por África del Norte, Estados Unidos y Kenya, así como su relación con el sinólogo Richard Wilhelm, el indólogo Heinrich Zimmer y el filólogo y 
-        mitólogo Karl Kerenyi. Entre sus libros figuran: Sobre cosas que se ven en los cielos, Recuerdos, sueños y pensamientos, Sincronicidad, Psicología y alquimia, 
-        Psicología y Religión, Simbología del espíritu y Símbolos de Transformación. 
-        </p>
-        {/* <div className='yVideo'>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/JH15WHCC0Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </div>
-        <p className='textoVideo'>Novelista, ensayista y místico intelectual, Aldous Leonard Huxley nació en Inglaterra en 1894 en el seno de una destacada familia de literatos y científicos. 
-          Entre sus obras más importantes figuran: Las puertas de la percepción. Cielo e infierno, Un mundo feliz, La filosofía perenne, La isla, El tiempo debe detenerse, 
-          Los demonios de Loudun y Contrapunto. </p> */}
+          </div>
+          <p className='textoVideo'>
+          Carl Gustav Jung es una de las grandes figuras de la psicología y psiquiatría contemporáneas. Quizá el más interesante discípulo de Sigmund Freud. Influyentes en sus 
+          ideas fueron sus viajes por África del Norte, Estados Unidos y Kenya, así como su relación con el sinólogo Richard Wilhelm, el indólogo Heinrich Zimmer y el filólogo y 
+          mitólogo Karl Kerenyi. Entre sus libros figuran: Sobre cosas que se ven en los cielos, Recuerdos, sueños y pensamientos, Sincronicidad, Psicología y alquimia, 
+          Psicología y Religión, Simbología del espíritu y Símbolos de Transformación. 
+          </p>
+          {/* <div className='yVideo'>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/JH15WHCC0Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
+          <p className='textoVideo'>Novelista, ensayista y místico intelectual, Aldous Leonard Huxley nació en Inglaterra en 1894 en el seno de una destacada familia de literatos y científicos. 
+            Entre sus obras más importantes figuran: Las puertas de la percepción. Cielo e infierno, Un mundo feliz, La filosofía perenne, La isla, El tiempo debe detenerse, 
+            Los demonios de Loudun y Contrapunto. </p> */}
+      </div>
+
    </div>
  );
  

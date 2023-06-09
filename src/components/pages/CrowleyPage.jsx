@@ -26,16 +26,18 @@ const images = [
 
  const CrowleyPage = () => (
     <div className='pageContainer'>
+      <div className='pageSec'>
         <h1>Aleister Crowley</h1>
         <hr/>
         <div className='GalleryContainer'>
-        <ImageGallery 
-         items={images} 
-         showPlayButton={false}
-         disableThumbnailScroll={false}
-        />
+          <ImageGallery 
+          items={images} 
+          showPlayButton={false}
+          disableThumbnailScroll={false}
+          />
         </div>
         <br/>
+      </div>
    </div>
  );
  
