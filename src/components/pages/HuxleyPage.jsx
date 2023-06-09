@@ -3,10 +3,6 @@ import ImageGallery from 'react-image-gallery';
 import 'react-image-gallery/styles/css/image-gallery.css';
 
 const images = [
-  // {
-  //   original: require('../../img/Pages/AldousHuxley/aldoushuxley1.png'),
-  //   thumbnail: require('../../img/Pages/AldousHuxley/aldoushuxley1.png'),
-  // },
   {
     original: require('../../img/Pages/AldousHuxley/DALL·E 2022-12-17 01.43.41 - hermes trismegistus in fractal palace.png'),
   },
@@ -25,7 +21,6 @@ const images = [
          items={images} 
          showPlayButton={false}
          disableThumbnailScroll={false}
-         thumbnailClass='tumbContainer'
         />
         </div>
         <br/>

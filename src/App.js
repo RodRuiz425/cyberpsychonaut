@@ -7,6 +7,8 @@ import './App.css';
 import HuxleyPage from './components/pages/HuxleyPage'
 import CrowleyPage from './components/pages/CrowleyPage';
 import JungPage from './components/pages/JungPage';
+import CastanedaPage from './components/pages/CastanedaPage';
+import CampbellPage from './components/pages/CampbellPage';
 
 function App() {
   return (
@@ -42,8 +44,8 @@ function App() {
         <Route path="/aldous-huxley" element={<HuxleyPage/>}/>
         <Route path='/aleister-crowley' element={<CrowleyPage/>}/>
         <Route path='/carl-jung' element={<JungPage/>}/>
-        <Route path='/carlos-castaneda' element={''}/>
-        <Route path='/joseph-campbell' element={''}/>
+        <Route path='/carlos-castaneda' element={<CastanedaPage/>}/>
+        <Route path='/joseph-campbell' element={<CampbellPage/>}/>
         <Route path='/lama-tsondru' element={''}/>
         <Route path='/mircea-eliade' element={''}/>
         <Route path='/rumi' element={''}/>
