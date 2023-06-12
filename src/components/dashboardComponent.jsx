@@ -54,7 +54,7 @@ const DashboardComponent = () => (
             <h2>Lao Tse</h2>
         </div>
         <div className='dashGrid-item'>
-            <img src={EliadePNG} alt="Eliade" />
+            <img src={EliadePNG} alt="Mircea Eliade" />
             <h2>Mircea Eliade</h2>
         </div>
         <div className='dashGrid-item'>
