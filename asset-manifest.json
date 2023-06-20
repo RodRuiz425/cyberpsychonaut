@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.77de9d68.css",
+    "main.css": "/static/css/main.b50a0896.css",
     "main.js": "/static/js/main.95029a7e.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/portada4.png": "/static/media/portada4.fed87c0b70254d32a7bb.png",
@@ -38,12 +38,12 @@
     "static/media/ChakraPetch-Regular.ttf": "/static/media/ChakraPetch-Regular.f4019d33aae25f6d8eaf.ttf",
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
-    "main.77de9d68.css.map": "/static/css/main.77de9d68.css.map",
+    "main.b50a0896.css.map": "/static/css/main.b50a0896.css.map",
     "main.95029a7e.js.map": "/static/js/main.95029a7e.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.77de9d68.css",
+    "static/css/main.b50a0896.css",
     "static/js/main.95029a7e.js"
   ]
 }
