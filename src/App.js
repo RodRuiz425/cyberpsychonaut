@@ -43,7 +43,7 @@ function App() {
     {/* Rutas */}
     <Routes>
         {/* <Route path='/' element={<DashboardComponent/>}/> */}
-        <Route path="/" element={<>
+        <Route path="/cyberpsychonaut" element={<>
           <CoverImage/>
           <DashboardComponent />
         </>} />
