@@ -106,7 +106,7 @@
 .DashboardComponent{
   background-color: #161617;
   color: #F0EBFA;
-  width: 70vw;
+  width: 77vw;
   padding: 2vw;
   margin: 7vh;
   border-radius: 10px;
@@ -118,22 +118,26 @@
 }
 
 .cover-image {
-  width: 100vw;
+  width: 77w;
   height: auto;
   overflow: hidden; /* esto asegura que la imagen no se desborde del contenedor */
   padding: 0;
-  margin: 0;
+  margin-top: 11vh;
   @media (max-width: 768px) {
-    margin-top: 9vh;
+    margin-top: 10vh;
+  }
+  @media(max-width: 500px) {
+    margin-top: 12vh;
   }
 }
 
 .cover-image img {
-  width: 100%;
+  width: 77%;
   height: auto;
   object-fit: cover;
   padding: 0;
   margin: 0;
+  border-radius: 33px;
 }
 
 .dashGridContainer{
