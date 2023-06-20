@@ -1,5 +1,6 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
+import CoverImage from './CoverImgComponent';
 
 import AleisterCrowleyPNG from '../img/Dashboard/crowleyD.png';
 import HuxleyPNG from '../img/Dashboard/huxleyD.png';
@@ -14,6 +15,7 @@ import SivanandaPNG from '../img/Dashboard/sivananda.png';
 
 const DashboardComponent = () => (
    <div className='DashboardComponent'>
+    <h2>Autores</h2>
       <div className='dashGridContainer'>
         <div className='dashGrid-item'>
             <NavLink to='/aldous-huxley' className='navlink'>

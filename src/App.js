@@ -3,6 +3,7 @@ import logotipo from './img/loading.png';
 import DashboardComponent from './components/DashboardComponent';
 import { BrowserRouter, Route, Routes, NavLink} from 'react-router-dom';
 import './App.css';
+import CoverImage from './components/CoverImgComponent';
 
 import HuxleyPage from './components/pages/HuxleyPage'
 import CrowleyPage from './components/pages/CrowleyPage';
@@ -32,6 +33,7 @@ function App() {
           </ul>
         
         </div>
+ 
           {/* <div className='GalleryContainer'>
             <GalleryComponent className="Gallery"/>
           </div> */}
@@ -40,7 +42,11 @@ function App() {
           </div> */}
     {/* Rutas */}
     <Routes>
-        <Route path='/' element={<DashboardComponent/>}/>
+        {/* <Route path='/' element={<DashboardComponent/>}/> */}
+        <Route path="/" element={<>
+          <CoverImage/>
+          <DashboardComponent />
+        </>} />
         <Route path="/aldous-huxley" element={<HuxleyPage/>}/>
         <Route path='/aleister-crowley' element={<CrowleyPage/>}/>
         <Route path='/carl-jung' element={<JungPage/>}/>
