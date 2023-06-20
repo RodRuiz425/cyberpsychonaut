@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.b50a0896.css",
-    "main.js": "/static/js/main.95029a7e.js",
+    "main.css": "/static/css/main.2a0d8f5e.css",
+    "main.js": "/static/js/main.3012cd70.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
-    "static/media/portada4.png": "/static/media/portada4.fed87c0b70254d32a7bb.png",
+    "static/media/portada4.png": "/static/media/portada4.ae81478155c7b2f875d3.png",
     "static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .png": "/static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .c7282e723abd26737808.png",
     "static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.png": "/static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.374e0312145b155f54e3.png",
     "static/media/sivananda.png": "/static/media/sivananda.6d1641f997805c140c8d.png",
@@ -38,12 +38,12 @@
     "static/media/ChakraPetch-Regular.ttf": "/static/media/ChakraPetch-Regular.f4019d33aae25f6d8eaf.ttf",
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
-    "main.b50a0896.css.map": "/static/css/main.b50a0896.css.map",
-    "main.95029a7e.js.map": "/static/js/main.95029a7e.js.map",
+    "main.2a0d8f5e.css.map": "/static/css/main.2a0d8f5e.css.map",
+    "main.3012cd70.js.map": "/static/js/main.3012cd70.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b50a0896.css",
-    "static/js/main.95029a7e.js"
+    "static/css/main.2a0d8f5e.css",
+    "static/js/main.3012cd70.js"
   ]
 }
