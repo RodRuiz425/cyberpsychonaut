@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a0d8f5e.css",
-    "main.js": "/static/js/main.56ccecae.js",
+    "main.js": "/static/js/main.d4e17666.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/portada4.png": "/static/media/portada4.ae81478155c7b2f875d3.png",
     "static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .png": "/static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .c7282e723abd26737808.png",
@@ -17,6 +17,7 @@
     "static/media/rumi.png": "/static/media/rumi.c8f785ac614ade370d3b.png",
     "static/media/aleistercrowley1.png": "/static/media/aleistercrowley1.75a24eff7142cd3fe1f4.png",
     "static/media/crowleyD.png": "/static/media/crowleyD.14d62b3eddc476b772d8.png",
+    "static/media/lamatsondru1.png": "/static/media/lamatsondru1.9f6e48e64fb38586cf5c.png",
     "static/media/DALL·E 2022-08-10 13.24.52 - Interdimensional Entity.png": "/static/media/DALL·E 2022-08-10 13.24.52 - Interdimensional Entity.aacd5c8d2c03106e6b0d.png",
     "static/media/DALL·E 2022-10-09 22.59.20 - Pyschonaut DMT vision.png": "/static/media/DALL·E 2022-10-09 22.59.20 - Pyschonaut DMT vision.7ceeff26ef4682548760.png",
     "static/media/DALL·E 2022-12-17 01.43.41 - hermes trismegistus in fractal palace.png": "/static/media/DALL·E 2022-12-17 01.43.41 - hermes trismegistus in fractal palace.dbaf7a93262d9ff7d4b3.png",
@@ -32,6 +33,7 @@
     "static/media/tsondru.png": "/static/media/tsondru.fc32bc97cfbb8d1a407c.png",
     "static/media/DALL·E 2022-08-10 16.00.17 - hyperspace platonic solids.png": "/static/media/DALL·E 2022-08-10 16.00.17 - hyperspace platonic solids.abed279e0434d6680fd7.png",
     "static/media/DALL·E 2023-02-24 23.17.48.png": "/static/media/DALL·E 2023-02-24 23.17.48.d4bb9f06f2b886017e75.png",
+    "static/media/DALL·E 2022-08-10 13.24.11 - Psychodelic Dream.png": "/static/media/DALL·E 2022-08-10 13.24.11 - Psychodelic Dream.f3a1724cd08d03a87bf1.png",
     "static/media/huxleyD.png": "/static/media/huxleyD.78a6407fce8881844962.png",
     "static/media/DALL·E 2023-04-14 19.46.48 - Interdimensional Entity.png": "/static/media/DALL·E 2023-04-14 19.46.48 - Interdimensional Entity.ec6b68cf7a37fb4691b3.png",
     "static/media/jung.png": "/static/media/jung.14f96af33ca070852a4e.png",
@@ -39,11 +41,11 @@
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
     "main.2a0d8f5e.css.map": "/static/css/main.2a0d8f5e.css.map",
-    "main.56ccecae.js.map": "/static/js/main.56ccecae.js.map",
+    "main.d4e17666.js.map": "/static/js/main.d4e17666.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a0d8f5e.css",
-    "static/js/main.56ccecae.js"
+    "static/js/main.d4e17666.js"
   ]
 }
