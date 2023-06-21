@@ -10,43 +10,10 @@ import CrowleyPage from './components/pages/CrowleyPage';
 import JungPage from './components/pages/JungPage';
 import CastanedaPage from './components/pages/CastanedaPage';
 import CampbellPage from './components/pages/CampbellPage';
+import TsondruPage from './components/pages/TsondruPage';
 
 function App() {
   return (
-    // <BrowserRouter>
-    
-    // {/* Navegación */}
-    // <div className="App">
-    //   <header className="App-header">
-    //     <div className='Navigation'>
-    //       <ul>
-    //         <li className='logotipo'>
-    //           <NavLink to='/'>
-    //           <img src={logotipo} className="App-logotipo" alt="logotipo" />
-    //           </NavLink>
-    //         </li>
-    //       </ul>
-    //     </div>
-    // {/* Rutas */}
-    // <Routes>
-    //     <Route path="/" element={<>
-    //       <CoverImage/>
-    //       <DashboardComponent />
-    //     </>} />
-    //     <Route path="/aldous-huxley" element={<HuxleyPage/>}/>
-    //     <Route path='/aleister-crowley' element={<CrowleyPage/>}/>
-    //     <Route path='/carl-jung' element={<JungPage/>}/>
-    //     <Route path='/carlos-castaneda' element={<CastanedaPage/>}/>
-    //     <Route path='/joseph-campbell' element={<CampbellPage/>}/>
-    //     <Route path='/lama-tsondru' element={''}/>
-    //     <Route path='/mircea-eliade' element={''}/>
-    //     <Route path='/rumi' element={''}/>
-    //     <Route path='/swami-sivananda' element={''}/>
-    // </Routes>
-    // </header>
-    // </div>
-    // </BrowserRouter>
-
     <HashRouter>
     
     {/* Navegación */}
@@ -72,7 +39,7 @@ function App() {
         <Route path='/carl-jung' element={<JungPage/>}/>
         <Route path='/carlos-castaneda' element={<CastanedaPage/>}/>
         <Route path='/joseph-campbell' element={<CampbellPage/>}/>
-        <Route path='/lama-tsondru' element={''}/>
+        <Route path='/lama-tsondru' element={<TsondruPage/>}/>
         <Route path='/mircea-eliade' element={''}/>
         <Route path='/rumi' element={''}/>
         <Route path='/swami-sivananda' element={''}/>

@@ -1,6 +1,5 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import CoverImage from './CoverImgComponent';
 
 import AleisterCrowleyPNG from '../img/Dashboard/crowleyD.png';
 import HuxleyPNG from '../img/Dashboard/huxleyD.png';
@@ -48,8 +47,10 @@ const DashboardComponent = () => (
             </NavLink>
         </div>
         <div className='dashGrid-item'>
+            <NavLink to='/lama-tsondru' className='navlink'>
             <img src={TsondruPNG} alt="Lama Tsondru" />
             <h2>Lama Tsondru</h2>
+            </NavLink>
         </div>
         <div className='dashGrid-item'>
             <img src={LaoTsePNG} alt="Lao Tse" />
