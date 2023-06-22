@@ -54,12 +54,16 @@ const DashboardComponent = () => (
             </NavLink>
         </div>
         <div className='dashGrid-item'>
+            <NavLink to='/lao-tse' className='navlink'>
             <img src={LaoTsePNG} alt="Lao Tse" />
             <h2>Lao Tse</h2>
+            </NavLink>
         </div>
         <div className='dashGrid-item'>
+            <NavLink to='/mircea-eliade' className='navlink'>
             <img src={EliadePNG} alt="Mircea Eliade" />
             <h2>Mircea Eliade</h2>
+            </NavLink>
         </div>
         <div className='dashGrid-item'>
             <img src={RumiPNG} alt="Rumi" />

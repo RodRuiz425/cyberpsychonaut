@@ -11,6 +11,8 @@ import JungPage from './components/pages/JungPage';
 import CastanedaPage from './components/pages/CastanedaPage';
 import CampbellPage from './components/pages/CampbellPage';
 import TsondruPage from './components/pages/TsondruPage';
+import LaoTsePage from './components/pages/LaoTsePage';
+import EliadePage from './components/pages/EliadePage';
 
 function App() {
   return (
@@ -40,7 +42,8 @@ function App() {
         <Route path='/carlos-castaneda' element={<CastanedaPage/>}/>
         <Route path='/joseph-campbell' element={<CampbellPage/>}/>
         <Route path='/lama-tsondru' element={<TsondruPage/>}/>
-        <Route path='/mircea-eliade' element={''}/>
+        <Route path='/lao-tse' element={<LaoTsePage/>}/>
+        <Route path='/mircea-eliade' element={<EliadePage/>}/>
         <Route path='/rumi' element={''}/>
         <Route path='/swami-sivananda' element={''}/>
     </Routes>
