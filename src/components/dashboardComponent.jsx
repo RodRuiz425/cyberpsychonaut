@@ -15,6 +15,7 @@ import SivanandaPNG from '../img/Dashboard/sivananda.png';
 const DashboardComponent = () => (
    <div className='DashboardComponent'>
     <h2>Autores</h2>
+    <hr/>
       <div className='dashGridContainer'>
         <div className='dashGrid-item'>
             <NavLink to='/aldous-huxley' className='navlink'>

@@ -43,7 +43,7 @@
   padding: 0;
   display: flex;
   align-items: center;
-  padding-left: 15vw;
+  padding-left: 17vw;
 
   @media (max-width: 768px) {
     width: 80vw;
@@ -107,10 +107,9 @@
   background-color: #161617;
   color: #F0EBFA;
   width: 77vw;
-  padding: 2vw;
+  padding: 1.5vw;
   margin: 7vh;
   border-radius: 10px;
-
   @media (max-width: 768px) {
     margin: 3vh;
     width: 90vw;
@@ -118,13 +117,16 @@
 }
 
 .cover-image {
-  width: 65vw;
+  width: 75vw;
   height: auto;
   overflow: hidden; /* esto asegura que la imagen no se desborde del contenedor */
   padding: 0;
   margin-top: 11vh;
+  border: 7px solid #161617;
+  border-radius: 33px;
   @media (max-width: 768px) {
     margin-top: 10vh;
+    width: 85vw;
   }
   @media(max-width: 500px) {
     margin-top: 12vh;
@@ -198,9 +200,9 @@
 .pageContainer{
   /* background-color: #161617; */
   color: #F0EBFA;
-  width: 70vw;
+  width: 77vw;
   padding: 1vw;
-  margin: 8vh;
+  margin: 7vh;
   border-radius: 10px;
 
   @media (max-width: 768px) {
