@@ -118,7 +118,7 @@
 }
 
 .cover-image {
-  width: 77w;
+  width: 65vw;
   height: auto;
   overflow: hidden; /* esto asegura que la imagen no se desborde del contenedor */
   padding: 0;
@@ -132,7 +132,7 @@
 }
 
 .cover-image img {
-  width: 77%;
+  width: 100%;
   height: auto;
   object-fit: cover;
   padding: 0;
@@ -259,4 +259,9 @@
     font-size: 20px;
 
   }
+}
+
+hr{
+  border-color:rgb(94, 92, 95);
+  border-width: 3px;
 }
