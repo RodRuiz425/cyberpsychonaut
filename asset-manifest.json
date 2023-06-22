@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c287b2af.css",
-    "main.js": "/static/js/main.0621f4dd.js",
+    "main.js": "/static/js/main.2900de8f.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/portada.gif": "/static/media/portada.20e25b5bac70ab77b7b7.gif",
     "static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .png": "/static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .c7282e723abd26737808.png",
@@ -10,7 +10,9 @@
     "static/media/DALL·E 2023-05-23 21.44.26 - medieval manuscript pentagram hindu yantra catholic.png": "/static/media/DALL·E 2023-05-23 21.44.26 - medieval manuscript pentagram hindu yantra catholic.5c934ea29a6d310e7695.png",
     "static/media/DALL·E 2023-04-10 01.26.34 - hindu yantra from medieval european manuscript.png": "/static/media/DALL·E 2023-04-10 01.26.34 - hindu yantra from medieval european manuscript.9bbaf9ac3ad4b1c0807d.png",
     "static/media/octaviopaz1.png": "/static/media/octaviopaz1.edb484f24b422d565beb.png",
+    "static/media/DALL·E 2023-05-11 10.31.08 - fractal DMT realm sacred geometry .png": "/static/media/DALL·E 2023-05-11 10.31.08 - fractal DMT realm sacred geometry .ad2e86a8bdee5f50678a.png",
     "static/media/DALL·E 2023-05-09 13.02.05 - fractal palace DMT moebius.png": "/static/media/DALL·E 2023-05-09 13.02.05 - fractal palace DMT moebius.ad33a9ff3ecc98c11bda.png",
+    "static/media/mirceaeliade1.png": "/static/media/mirceaeliade1.986a869749e18632cfa5.png",
     "static/media/DALL·E 2023-04-10 01.27.05 - hindu yantra from medieval catholic manuscript.png": "/static/media/DALL·E 2023-04-10 01.27.05 - hindu yantra from medieval catholic manuscript.67b33013faf56e3b1398.png",
     "static/media/DALL·E 2023-05-09 13.01.23 - fractal medieval castle.png": "/static/media/DALL·E 2023-05-09 13.01.23 - fractal medieval castle.350c2930866e176c2b7a.png",
     "static/media/campbell.png": "/static/media/campbell.4994c41263263131ae00.png",
@@ -19,10 +21,16 @@
     "static/media/crowleyD.png": "/static/media/crowleyD.14d62b3eddc476b772d8.png",
     "static/media/lamatsondru1.png": "/static/media/lamatsondru1.9f6e48e64fb38586cf5c.png",
     "static/media/DALL·E 2022-08-10 13.24.52 - Interdimensional Entity.png": "/static/media/DALL·E 2022-08-10 13.24.52 - Interdimensional Entity.aacd5c8d2c03106e6b0d.png",
+    "static/media/DALL·E 2023-03-19 20.32.04 - goetia manuscript hindu mandala.png": "/static/media/DALL·E 2023-03-19 20.32.04 - goetia manuscript hindu mandala.dd34671739f33c800db2.png",
     "static/media/DALL·E 2022-10-09 22.59.20 - Pyschonaut DMT vision.png": "/static/media/DALL·E 2022-10-09 22.59.20 - Pyschonaut DMT vision.7ceeff26ef4682548760.png",
+    "static/media/DALL·E 2022-09-15 13.10.05 - fractal sacred geometry temple.png": "/static/media/DALL·E 2022-09-15 13.10.05 - fractal sacred geometry temple.6619a6356308419cf2dc.png",
     "static/media/DALL·E 2022-12-17 01.43.41 - hermes trismegistus in fractal palace.png": "/static/media/DALL·E 2022-12-17 01.43.41 - hermes trismegistus in fractal palace.dbaf7a93262d9ff7d4b3.png",
+    "static/media/DALL·E 2023-03-19 20.32.58 - masonic temple fractal.png": "/static/media/DALL·E 2023-03-19 20.32.58 - masonic temple fractal.d10232efd122f5958d15.png",
     "static/media/DALL·E 2023-04-14 20.17.24 - medieval manuscript of alchemy.png": "/static/media/DALL·E 2023-04-14 20.17.24 - medieval manuscript of alchemy.efd15aa57b8d27cc10c5.png",
+    "static/media/DALL·E 2023-02-24 23.13.14 - fractal kabbalah.png": "/static/media/DALL·E 2023-02-24 23.13.14 - fractal kabbalah.0f764214b7f12981ea21.png",
     "static/media/castaneda.png": "/static/media/castaneda.773328fcb5e127aaff9e.png",
+    "static/media/DALL·E 2023-03-09 13.56.44 - goetia manuscript hindu mandala.png": "/static/media/DALL·E 2023-03-09 13.56.44 - goetia manuscript hindu mandala.98db02b8f96871ca1f78.png",
+    "static/media/laotse1.png": "/static/media/laotse1.83a7a99c2b90ad614a4f.png",
     "static/media/DALL·E 2022-08-10 16.07.44 - fractal DMT realm.png": "/static/media/DALL·E 2022-08-10 16.07.44 - fractal DMT realm.112090a4811fb34789d3.png",
     "static/media/DALL·E 2023-03-09 14.15.59 - hindu yantra from medieval catholic manuscript.png": "/static/media/DALL·E 2023-03-09 14.15.59 - hindu yantra from medieval catholic manuscript.0db8a4f748a8bf1b439d.png",
     "static/media/carljung1.png": "/static/media/carljung1.41729502b56f175f04cf.png",
@@ -33,19 +41,23 @@
     "static/media/tsondru.png": "/static/media/tsondru.fc32bc97cfbb8d1a407c.png",
     "static/media/DALL·E 2022-08-10 16.00.17 - hyperspace platonic solids.png": "/static/media/DALL·E 2022-08-10 16.00.17 - hyperspace platonic solids.abed279e0434d6680fd7.png",
     "static/media/DALL·E 2023-02-24 23.17.48.png": "/static/media/DALL·E 2023-02-24 23.17.48.d4bb9f06f2b886017e75.png",
+    "static/media/DALL·E 2023-04-14 20.24.35 - macrocosm microcosm medieval diagram.png": "/static/media/DALL·E 2023-04-14 20.24.35 - macrocosm microcosm medieval diagram.7bc17a0caa43a10a1226.png",
     "static/media/DALL·E 2022-08-10 13.24.11 - Psychodelic Dream.png": "/static/media/DALL·E 2022-08-10 13.24.11 - Psychodelic Dream.f3a1724cd08d03a87bf1.png",
+    "static/media/DALL·E 2022-08-10 16.12.48 - fractal realm.png": "/static/media/DALL·E 2022-08-10 16.12.48 - fractal realm.6f5018a1af0f84ab1fd4.png",
     "static/media/huxleyD.png": "/static/media/huxleyD.78a6407fce8881844962.png",
     "static/media/DALL·E 2023-04-14 19.46.48 - Interdimensional Entity.png": "/static/media/DALL·E 2023-04-14 19.46.48 - Interdimensional Entity.ec6b68cf7a37fb4691b3.png",
+    "static/media/DALL·E 2023-04-14 19.53.39 - A gate into hyperspace.png": "/static/media/DALL·E 2023-04-14 19.53.39 - A gate into hyperspace.9e1d1e3dd8efac58cd63.png",
+    "static/media/0_moebius art theurgy_esrgan-v1-x2plus (2).png": "/static/media/0_moebius art theurgy_esrgan-v1-x2plus (2).040fcd4a6436a85af8e9.png",
     "static/media/jung.png": "/static/media/jung.14f96af33ca070852a4e.png",
     "static/media/ChakraPetch-Regular.ttf": "/static/media/ChakraPetch-Regular.f4019d33aae25f6d8eaf.ttf",
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
     "main.c287b2af.css.map": "/static/css/main.c287b2af.css.map",
-    "main.0621f4dd.js.map": "/static/js/main.0621f4dd.js.map",
+    "main.2900de8f.js.map": "/static/js/main.2900de8f.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c287b2af.css",
-    "static/js/main.0621f4dd.js"
+    "static/js/main.2900de8f.js"
   ]
 }
