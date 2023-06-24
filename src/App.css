@@ -122,8 +122,8 @@
   overflow: hidden; /* esto asegura que la imagen no se desborde del contenedor */
   padding: 0;
   margin-top: 11vh;
-  border: 7px solid #161617;
-  border-radius: 33px;
+  /* border: 2px solid #161617; */
+  border-radius: 13px;
   @media (max-width: 768px) {
     margin-top: 10vh;
     width: 85vw;
