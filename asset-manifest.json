@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.a0e96e76.css",
-    "main.js": "/static/js/main.5acd67b4.js",
+    "main.js": "/static/js/main.3bde9b6c.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
-    "static/media/portada.gif": "/static/media/portada.8d3ef80d1b05aadf3b04.gif",
+    "static/media/portada.gif": "/static/media/portada.54d5b4e9ea9e97e858ff.gif",
     "static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .png": "/static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .c7282e723abd26737808.png",
     "static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.png": "/static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.374e0312145b155f54e3.png",
     "static/media/sivananda.png": "/static/media/sivananda.6d1641f997805c140c8d.png",
@@ -53,11 +53,11 @@
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
     "main.a0e96e76.css.map": "/static/css/main.a0e96e76.css.map",
-    "main.5acd67b4.js.map": "/static/js/main.5acd67b4.js.map",
+    "main.3bde9b6c.js.map": "/static/js/main.3bde9b6c.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0e96e76.css",
-    "static/js/main.5acd67b4.js"
+    "static/js/main.3bde9b6c.js"
   ]
 }
