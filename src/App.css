@@ -201,6 +201,7 @@
     padding-top: 0;
     padding-left: 2%;
     padding-right: 2%;
+    font-size: medium;
   }
   @media (max-width: 390px) {
     font-size: large;
