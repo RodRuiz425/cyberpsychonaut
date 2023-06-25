@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ff4b086.css",
-    "main.js": "/static/js/main.3bde9b6c.js",
+    "main.css": "/static/css/main.2dc802d3.css",
+    "main.js": "/static/js/main.2f6e5231.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/portada.gif": "/static/media/portada.54d5b4e9ea9e97e858ff.gif",
     "static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .png": "/static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .c7282e723abd26737808.png",
@@ -49,15 +49,17 @@
     "static/media/DALL·E 2023-04-14 19.53.39 - A gate into hyperspace.png": "/static/media/DALL·E 2023-04-14 19.53.39 - A gate into hyperspace.9e1d1e3dd8efac58cd63.png",
     "static/media/0_moebius art theurgy_esrgan-v1-x2plus (2).png": "/static/media/0_moebius art theurgy_esrgan-v1-x2plus (2).040fcd4a6436a85af8e9.png",
     "static/media/jung.png": "/static/media/jung.14f96af33ca070852a4e.png",
+    "static/media/magickpsyop.png": "/static/media/magickpsyop.a11a0f2f6c4a5e646fa0.png",
     "static/media/ChakraPetch-Regular.ttf": "/static/media/ChakraPetch-Regular.f4019d33aae25f6d8eaf.ttf",
+    "static/media/Linebeam.ttf": "/static/media/Linebeam.6844a117c2efb124a6a0.ttf",
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
-    "main.7ff4b086.css.map": "/static/css/main.7ff4b086.css.map",
-    "main.3bde9b6c.js.map": "/static/js/main.3bde9b6c.js.map",
+    "main.2dc802d3.css.map": "/static/css/main.2dc802d3.css.map",
+    "main.2f6e5231.js.map": "/static/js/main.2f6e5231.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ff4b086.css",
-    "static/js/main.3bde9b6c.js"
+    "static/css/main.2dc802d3.css",
+    "static/js/main.2f6e5231.js"
   ]
 }
