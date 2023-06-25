@@ -212,10 +212,10 @@
   font-size: 35px;
   text-align: center;
   @media (max-width: 768px) {
-    font-size: large;
+    font-size: medium;
   }
   @media (max-width: 390px) {
-    font-size: medium;
+    font-size: small;
     padding-top: 10px;
   }
 }
