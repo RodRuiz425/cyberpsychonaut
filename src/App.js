@@ -4,6 +4,7 @@ import DashboardComponent from './components/DashboardComponent';
 import { HashRouter, Route, Routes, NavLink} from 'react-router-dom';
 import './App.css';
 import CoverImage from './components/CoverImgComponent';
+import AboutComponent from './components/AboutComponent';
 
 import HuxleyPage from './components/pages/HuxleyPage'
 import CrowleyPage from './components/pages/CrowleyPage';
@@ -35,6 +36,7 @@ function App() {
         <Route exact path="/" element={<>
           <CoverImage/>
           <DashboardComponent />
+          <AboutComponent/>
         </>} />
         <Route path="/aldous-huxley" element={<HuxleyPage/>}/>
         <Route path='/aleister-crowley' element={<CrowleyPage/>}/>
