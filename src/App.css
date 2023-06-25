@@ -109,7 +109,7 @@
   width: 77vw;
   padding: 1.5vw;
   margin: 7vh;
-  border-radius: 10px;
+  border-radius: 3px;
   @media (max-width: 768px) {
     margin: 3vh;
     width: 90vw;
@@ -122,14 +122,12 @@
   overflow: hidden; /* esto asegura que la imagen no se desborde del contenedor */
   padding: 0;
   margin-top: 11vh;
-  /* border: 2px solid #161617; */
-  border-radius: 13px;
   @media (max-width: 768px) {
-    margin-top: 10vh;
-    width: 85vw;
+    margin-top: 12vh;
+    width: 95vw;
   }
   @media(max-width: 500px) {
-    margin-top: 12vh;
+    margin-top: 15vh;
   }
 }
 
@@ -139,7 +137,7 @@
   object-fit: cover;
   padding: 0;
   margin: 0;
-  border-radius: 33px;
+  border-radius: 9px;
 }
 
 .dashGridContainer{
