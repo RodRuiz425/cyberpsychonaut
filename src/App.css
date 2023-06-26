@@ -179,9 +179,6 @@
     padding-left: 0%;
     padding-right: 0%;
   }
-  @media (max-width: 390px) {
-    display: block;
-  }
 }
 
 .aboutLogo img{
@@ -190,17 +187,17 @@
   padding-top: 1%;
   @media (max-width: 768px) {
     width: 40%;
+    padding-top: 1.5%;
   }
   @media (max-width: 550px) {
-    padding: 0;
+    padding-top: 5%;
     width: 75%;
   }
 }
 
 .aboutText{
   text-align: justify;
-  font-size: x-large;
-  padding-top: 1%;
+  font-size: large;
   @media (max-width: 768px) {
     padding-top: 0;
     padding-left: 2%;
@@ -208,12 +205,12 @@
     font-size: medium;
   }
   @media (max-width: 390px) {
-    font-size: large;
+    font-size: small;
   }
 }
 .aboutTitle{
   font-family: 'Linebeam', sans-serif;
-  font-size: 35px;
+  font-size: x-large;
   text-align: center;
   @media (max-width: 768px) {
     font-size: medium;
