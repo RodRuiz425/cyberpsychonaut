@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cacac7bd.css",
-    "main.js": "/static/js/main.1455890e.js",
+    "main.css": "/static/css/main.7fce55ef.css",
+    "main.js": "/static/js/main.140807c0.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/portada.gif": "/static/media/portada.54d5b4e9ea9e97e858ff.gif",
     "static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .png": "/static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .c7282e723abd26737808.png",
@@ -54,12 +54,12 @@
     "static/media/Linebeam.ttf": "/static/media/Linebeam.6844a117c2efb124a6a0.ttf",
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
-    "main.cacac7bd.css.map": "/static/css/main.cacac7bd.css.map",
-    "main.1455890e.js.map": "/static/js/main.1455890e.js.map",
+    "main.7fce55ef.css.map": "/static/css/main.7fce55ef.css.map",
+    "main.140807c0.js.map": "/static/js/main.140807c0.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cacac7bd.css",
-    "static/js/main.1455890e.js"
+    "static/css/main.7fce55ef.css",
+    "static/js/main.140807c0.js"
   ]
 }
