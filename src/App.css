@@ -175,6 +175,9 @@
   @media (max-width: 768px) {
     padding: 0;
     display: block;
+    padding-top: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
   }
   @media (max-width: 390px) {
     display: block;
