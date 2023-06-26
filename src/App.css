@@ -216,7 +216,6 @@
     font-size: medium;
   }
   @media (max-width: 390px) {
-    font-size: small;
     padding-top: 10px;
   }
 }
