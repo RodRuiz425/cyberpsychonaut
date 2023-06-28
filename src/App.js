@@ -14,6 +14,8 @@ import CampbellPage from './components/pages/CampbellPage';
 import TsondruPage from './components/pages/TsondruPage';
 import LaoTsePage from './components/pages/LaoTsePage';
 import EliadePage from './components/pages/EliadePage';
+import RumiPage from './components/pages/RumiPage';
+import SivanandaPage from './components/pages/SivanandaPage';
 
 function App() {
   return (
@@ -46,8 +48,8 @@ function App() {
         <Route path='/lama-tsondru' element={<TsondruPage/>}/>
         <Route path='/lao-tse' element={<LaoTsePage/>}/>
         <Route path='/mircea-eliade' element={<EliadePage/>}/>
-        <Route path='/rumi' element={''}/>
-        <Route path='/swami-sivananda' element={''}/>
+        <Route path='/rumi' element={<RumiPage/>}/>
+        <Route path='/swami-sivananda' element={<SivanandaPage/>}/>
     </Routes>
     </header>
     </div>

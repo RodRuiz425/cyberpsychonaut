@@ -66,12 +66,16 @@ const DashboardComponent = () => (
             </NavLink>
         </div>
         <div className='dashGrid-item'>
+            <NavLink to='rumi' className='navlink'>
             <img src={RumiPNG} alt="Rumi" />
             <h2>Rumi</h2>
+            </NavLink>
         </div>
         <div className='dashGrid-item'>
+            <NavLink to='/swami-sivananda'className='navlink'>
             <img src={SivanandaPNG} alt="Swami Sivananda" />
             <h2>Swami Sivananda</h2>
+            </NavLink>
         </div>
       </div>
    </div>
