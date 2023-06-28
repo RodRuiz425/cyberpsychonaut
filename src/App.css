@@ -399,12 +399,12 @@ hr{
   @media (max-width: 768px) {
     font-size: medium;
     margin-top: 15%;
-
+    width: 10vh;
+    height: 10vw;
   }
   @media (max-width: 390px) {
     font-size: medium;
-    width: 10vh;
-    height: 10vw;
+
   }
 }
 
