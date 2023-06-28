@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.970ffb41.css",
-    "main.js": "/static/js/main.6f49793d.js",
+    "main.js": "/static/js/main.f44a1d90.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
+    "static/media/2254596124_yantra_from_medieval_christian_manuscript___512-v2-1-transformed.png": "/static/media/2254596124_yantra_from_medieval_christian_manuscript___512-v2-1-transformed.f92da05b79e22dbe8f86.png",
     "static/media/portada.gif": "/static/media/portada.3000bac9ed28b260e69c.gif",
+    "static/media/DALL·E 2023-05-11 13.19.22 - fractal spiral.png": "/static/media/DALL·E 2023-05-11 13.19.22 - fractal spiral.a5f252ada24f96ae75d4.png",
+    "static/media/DALL·E 2023-04-14 20.14.22 - astrological medieval manuscript .png": "/static/media/DALL·E 2023-04-14 20.14.22 - astrological medieval manuscript .61ecb8cfa7805917f020.png",
     "static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .png": "/static/media/DALL·E 2023-04-14 20.14.25 - astrological medieval manuscript .c7282e723abd26737808.png",
     "static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.png": "/static/media/DALL·E 2023-02-24 23.13.17 - fractal kabbalah.374e0312145b155f54e3.png",
     "static/media/sivananda.png": "/static/media/sivananda.6d1641f997805c140c8d.png",
@@ -15,6 +18,7 @@
     "static/media/mirceaeliade1.png": "/static/media/mirceaeliade1.986a869749e18632cfa5.png",
     "static/media/DALL·E 2023-04-10 01.27.05 - hindu yantra from medieval catholic manuscript.png": "/static/media/DALL·E 2023-04-10 01.27.05 - hindu yantra from medieval catholic manuscript.67b33013faf56e3b1398.png",
     "static/media/DALL·E 2023-05-09 13.01.23 - fractal medieval castle.png": "/static/media/DALL·E 2023-05-09 13.01.23 - fractal medieval castle.350c2930866e176c2b7a.png",
+    "static/media/DALL·E 2023-05-18 18.03.57 - fractal spiral DMT.png": "/static/media/DALL·E 2023-05-18 18.03.57 - fractal spiral DMT.d49fd7e44a6db1013977.png",
     "static/media/campbell.png": "/static/media/campbell.4994c41263263131ae00.png",
     "static/media/rumi.png": "/static/media/rumi.c8f785ac614ade370d3b.png",
     "static/media/aleistercrowley1.png": "/static/media/aleistercrowley1.75a24eff7142cd3fe1f4.png",
@@ -55,11 +59,11 @@
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
     "main.970ffb41.css.map": "/static/css/main.970ffb41.css.map",
-    "main.6f49793d.js.map": "/static/js/main.6f49793d.js.map",
+    "main.f44a1d90.js.map": "/static/js/main.f44a1d90.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.970ffb41.css",
-    "static/js/main.6f49793d.js"
+    "static/js/main.f44a1d90.js"
   ]
 }
