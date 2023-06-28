@@ -2,6 +2,7 @@ import React from 'react';
 import ImageGallery from 'react-image-gallery';
 import 'react-image-gallery/styles/css/image-gallery.css';
 
+
 const images = [
   {
     original: require('../../img/Pages/AlanWatts/DALL·E 2023-06-19 11.35.23 - fractal spiral style by moebius.png'),

@@ -1,6 +1,7 @@
 import React from 'react';
 import ImageGallery from 'react-image-gallery';
 import 'react-image-gallery/styles/css/image-gallery.css';
+import AvisoComponent from '../AvisoComponent';
 
 const images = [
   {
@@ -15,6 +16,7 @@ const images = [
 
  const StraussPage = () => (
     <div className='pageContainer'>
+      <AvisoComponent/>
       <div className='pageSec'>
         <h1>Claude Lévi-Strauss</h1>
         <hr/>

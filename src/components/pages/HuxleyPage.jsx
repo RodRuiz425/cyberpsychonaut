@@ -1,6 +1,7 @@
 import React from 'react';
 import ImageGallery from 'react-image-gallery';
 import 'react-image-gallery/styles/css/image-gallery.css';
+import AvisoComponent from '../AvisoComponent';
 
 const images = [
   {
@@ -13,6 +14,7 @@ const images = [
 
  const HuxleyPage = () => (
   <div className='pageContainer'>
+    <AvisoComponent/>
     <div className='pageSec'>
         <h1>Aldous Huxley</h1>
         <hr/>
