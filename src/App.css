@@ -213,25 +213,19 @@
   font-size: x-large;
   text-align: center;
   @media (max-width: 768px) {
-    font-size: medium;
-  }
-  @media (max-width: 390px) {
-    padding-top: 10px;
+    font-size: small;
   }
 }
 
 .dashGridContainer{
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(6, 1fr);
   grid-gap: 10px;
   font-size: small;
   
   /* Estilos para pantallas más pequeñas */
   @media (max-width: 768px) {
-    grid-template-columns: repeat(3, 1fr);
-  }
-  @media (min-width: 780px) and (max-width: 1400px) {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
   }
 }
 
