@@ -11,12 +11,22 @@ import LaoTsePNG from '../img/Dashboard/laotse.png';
 import EliadePNG from '../img/Dashboard/eliade.png';
 import RumiPNG from '../img/Dashboard/rumi.png';
 import SivanandaPNG from '../img/Dashboard/sivananda.png';
+import KDickPNG from '../img/Dashboard/philipkdick.png';
+import MckennaPNG from '../img/Dashboard/mckenna.png';
+import WattsPNG from '../img/Dashboard/alanwatts.png';
+import MorrisonPNG from '../img/Dashboard/grantmorrison.png';
 
 const DashboardComponent = () => (
    <div className='DashboardComponent'>
     <h2>Autores</h2>
     <hr/>
       <div className='dashGridContainer'>
+        <div className='dashGrid-item'>
+            <NavLink to='/alan-watts' className='navlink'>
+            <img src={WattsPNG} alt="Alan Watts"/>
+            <h2>Alan Watts</h2>
+            </NavLink>
+        </div>
         <div className='dashGrid-item'>
             <NavLink to='/aldous-huxley' className='navlink'>
                 <img src={HuxleyPNG} alt="Aldous Huxley" />
@@ -39,6 +49,12 @@ const DashboardComponent = () => (
             <NavLink to='/carlos-castaneda' className='navlink'>
             <img src={CastanedaPNG} alt="Carlos Castaneda" />
             <h2>Carlos Castaneda</h2>
+            </NavLink>
+        </div>
+        <div className='dashGrid-item'>
+            <NavLink to='/grant-morrison' className='navlink'>
+            <img src={MorrisonPNG} alt="Philip K. Dick"/>
+            <h2>Grant Morrison</h2>
             </NavLink>
         </div>
         <div className='dashGrid-item'>
@@ -66,17 +82,30 @@ const DashboardComponent = () => (
             </NavLink>
         </div>
         <div className='dashGrid-item'>
+            <NavLink to='/philip-k-dick' className='navlink'>
+            <img src={KDickPNG} alt="Philip K. Dick"/>
+            <h2>Philip K. Dick</h2>
+            </NavLink>
+        </div>
+        <div className='dashGrid-item'>
             <NavLink to='rumi' className='navlink'>
             <img src={RumiPNG} alt="Rumi" />
             <h2>Rumi</h2>
             </NavLink>
         </div>
         <div className='dashGrid-item'>
-            <NavLink to='/swami-sivananda'className='navlink'>
+            <NavLink to='/swami-sivananda' className='navlink'>
             <img src={SivanandaPNG} alt="Swami Sivananda" />
             <h2>Swami Sivananda</h2>
             </NavLink>
         </div>
+        <div className='dashGrid-item'>
+            <NavLink to='/terence-mckenna' className='navlink'>
+            <img src={MckennaPNG} alt="Terence Mckenna"/>
+            <h2>Terence Mckenna</h2>
+            </NavLink>
+        </div>
+
       </div>
    </div>
  );

@@ -16,6 +16,10 @@ import LaoTsePage from './components/pages/LaoTsePage';
 import EliadePage from './components/pages/EliadePage';
 import RumiPage from './components/pages/RumiPage';
 import SivanandaPage from './components/pages/SivanandaPage';
+import WattsPage from './components/pages/WattsPage';
+import MorrisonPage from './components/pages/MorrisonPage';
+import KDickPage from './components/pages/KDickPage';
+import MckennaPage from './components/pages/MckennaPage';
 
 function App() {
   return (
@@ -40,16 +44,20 @@ function App() {
           <DashboardComponent />
           <AboutComponent/>
         </>} />
+        <Route path='/alan-watts' element={<WattsPage/>}/>
         <Route path="/aldous-huxley" element={<HuxleyPage/>}/>
         <Route path='/aleister-crowley' element={<CrowleyPage/>}/>
         <Route path='/carl-jung' element={<JungPage/>}/>
         <Route path='/carlos-castaneda' element={<CastanedaPage/>}/>
+        <Route path='/grant-morrison' element={<MorrisonPage/>}/>
         <Route path='/joseph-campbell' element={<CampbellPage/>}/>
         <Route path='/lama-tsondru' element={<TsondruPage/>}/>
         <Route path='/lao-tse' element={<LaoTsePage/>}/>
         <Route path='/mircea-eliade' element={<EliadePage/>}/>
+        <Route path='/philip-k-dick' element={<KDickPage/>}/>
         <Route path='/rumi' element={<RumiPage/>}/>
         <Route path='/swami-sivananda' element={<SivanandaPage/>}/>
+        <Route path='/terence-mckenna' element={<MckennaPage/>}/>
     </Routes>
     </header>
     </div>
