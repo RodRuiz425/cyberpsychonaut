@@ -19,7 +19,7 @@ const AvisoComponent = () => {
           <div className="modal-content">
             <h5>¡AVISO! (+18)</h5>
             <p>Este sitio es exlcusivamente para mayores de edad. Te recordamos que el contenido de este sitio web puede abordar temas sensibles y estar sujeto a discusión sobre una amplia gama de perspectivas.
-                Al presionar continuar confirmas que eres mayor de edad y asumes la responsabilidad de tus propias decisiones y acciones.
+                Al presionar "Aceptar" confirmas que eres mayor de edad y asumes la responsabilidad de tus propias decisiones y acciones.
             </p>
             <div className='gridAviso'>
               <div className='gridAvisoItem'>
