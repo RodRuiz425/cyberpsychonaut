@@ -347,8 +347,8 @@ hr{
   left: 0;
   width: 100%;
   min-height: 100vh;
-  /* background-color: rgba(0,0,0.75); */
-  /* opacity: .7; */
+  background-color: rgba(0,0,0.75);
+  opacity: 0.9;
 }
 
 .modal-content{
