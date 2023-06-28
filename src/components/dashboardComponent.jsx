@@ -15,6 +15,9 @@ import KDickPNG from '../img/Dashboard/philipkdick.png';
 import MckennaPNG from '../img/Dashboard/mckenna.png';
 import WattsPNG from '../img/Dashboard/alanwatts.png';
 import MorrisonPNG from '../img/Dashboard/grantmorrison.png';
+import HermesPNG from '../img/Dashboard/hermes.png';
+import CarrollPNG from '../img/Dashboard/peterjcarroll.png';
+import StraussPNG from '../img/Dashboard/levistrauss.png';
 
 const DashboardComponent = () => (
    <div className='DashboardComponent'>
@@ -52,9 +55,21 @@ const DashboardComponent = () => (
             </NavLink>
         </div>
         <div className='dashGrid-item'>
+            <NavLink to='/levi-strauss' className='navlink'>
+            <img src={StraussPNG} alt="Carlos Castaneda" />
+            <h2>Claude Lévi-Strauss</h2>
+            </NavLink>
+        </div>
+        <div className='dashGrid-item'>
             <NavLink to='/grant-morrison' className='navlink'>
-            <img src={MorrisonPNG} alt="Philip K. Dick"/>
+            <img src={MorrisonPNG} alt="Grant Morrison"/>
             <h2>Grant Morrison</h2>
+            </NavLink>
+        </div>
+        <div className='dashGrid-item'>
+            <NavLink to='/hermes-trismegisto' className='navlink'>
+            <img src={HermesPNG} alt="Hermes Trismegisto"/>
+            <h2>Hermes Trismegisto</h2>
             </NavLink>
         </div>
         <div className='dashGrid-item'>
@@ -79,6 +94,12 @@ const DashboardComponent = () => (
             <NavLink to='/mircea-eliade' className='navlink'>
             <img src={EliadePNG} alt="Mircea Eliade" />
             <h2>Mircea Eliade</h2>
+            </NavLink>
+        </div>
+        <div className='dashGrid-item'>
+            <NavLink to='/peter-carroll' className='navlink'>
+            <img src={CarrollPNG} alt="Peter J. Carroll"/>
+            <h2>Peter J. Carroll</h2>
             </NavLink>
         </div>
         <div className='dashGrid-item'>
