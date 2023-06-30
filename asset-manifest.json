@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f41c6f8.css",
-    "main.js": "/static/js/main.355a61fb.js",
+    "main.js": "/static/js/main.5e3393c3.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/2254596124_yantra_from_medieval_christian_manuscript___512-v2-1-transformed.png": "/static/media/2254596124_yantra_from_medieval_christian_manuscript___512-v2-1-transformed.f92da05b79e22dbe8f86.png",
     "static/media/2747535263_DMT_psychonaut__768-v2-1-transformed.png": "/static/media/2747535263_DMT_psychonaut__768-v2-1-transformed.cca92d0948feaf21441a.png",
@@ -86,11 +86,11 @@
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
     "main.1f41c6f8.css.map": "/static/css/main.1f41c6f8.css.map",
-    "main.355a61fb.js.map": "/static/js/main.355a61fb.js.map",
+    "main.5e3393c3.js.map": "/static/js/main.5e3393c3.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f41c6f8.css",
-    "static/js/main.355a61fb.js"
+    "static/js/main.5e3393c3.js"
   ]
 }
