@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e472dd3d.css",
-    "main.js": "/static/js/main.fe1a9765.js",
+    "main.css": "/static/css/main.1f41c6f8.css",
+    "main.js": "/static/js/main.355a61fb.js",
     "static/js/787.936f6e56.chunk.js": "/static/js/787.936f6e56.chunk.js",
     "static/media/2254596124_yantra_from_medieval_christian_manuscript___512-v2-1-transformed.png": "/static/media/2254596124_yantra_from_medieval_christian_manuscript___512-v2-1-transformed.f92da05b79e22dbe8f86.png",
     "static/media/2747535263_DMT_psychonaut__768-v2-1-transformed.png": "/static/media/2747535263_DMT_psychonaut__768-v2-1-transformed.cca92d0948feaf21441a.png",
@@ -55,10 +55,12 @@
     "static/media/DALL·E 2023-05-23 21.44.42.png": "/static/media/DALL·E 2023-05-23 21.44.42.391f33fdf2a05c7ef516.png",
     "static/media/eliade.png": "/static/media/eliade.365f3462892974e74e16.png",
     "static/media/DALL·E 2023-05-11 20.02.29 - medieval manuscript magic hindu yantra pentagram.png": "/static/media/DALL·E 2023-05-11 20.02.29 - medieval manuscript magic hindu yantra pentagram.a151f002e6a8956540c0.png",
+    "static/media/stanislavgrof1.png": "/static/media/stanislavgrof1.1411aa1948aa6640e26d.png",
     "static/media/DALL·E 2023-06-19 11.36.16 - fractal spiral style by moebius.png": "/static/media/DALL·E 2023-06-19 11.36.16 - fractal spiral style by moebius.a8a346c4785e883448d6.png",
     "static/media/laotse.png": "/static/media/laotse.86937407182bdea9ecd8.png",
     "static/media/tsondru.png": "/static/media/tsondru.fc32bc97cfbb8d1a407c.png",
     "static/media/DALL·E 2022-08-10 16.24.23.png": "/static/media/DALL·E 2022-08-10 16.24.23.bd4bd5a794ac8b493afb.png",
+    "static/media/stanislavgrof.png": "/static/media/stanislavgrof.d0a2fdd0e48db6dbeb87.png",
     "static/media/levistrauss.png": "/static/media/levistrauss.1031f7638dd5474eef8a.png",
     "static/media/DALL·E 2023-06-09 23.34.11 - fractal vortex made of ancient greek and sanskrit words.png": "/static/media/DALL·E 2023-06-09 23.34.11 - fractal vortex made of ancient greek and sanskrit words.46becc42518ebba84b66.png",
     "static/media/DALL·E 2022-08-10 16.00.17 - hyperspace platonic solids.png": "/static/media/DALL·E 2022-08-10 16.00.17 - hyperspace platonic solids.abed279e0434d6680fd7.png",
@@ -69,6 +71,7 @@
     "static/media/0_a portal to another dimension made of language lik_esrgan-v1-x2plus (1).png": "/static/media/0_a portal to another dimension made of language lik_esrgan-v1-x2plus (1).3b1932e4551712e18f83.png",
     "static/media/DALL·E 2022-08-10 13.24.11 - Psychodelic Dream.png": "/static/media/DALL·E 2022-08-10 13.24.11 - Psychodelic Dream.f3a1724cd08d03a87bf1.png",
     "static/media/peterjcarroll.png": "/static/media/peterjcarroll.56f1e5ab314c35409906.png",
+    "static/media/DALL·E 2023-06-19 16.32.17 - analog geometry .png": "/static/media/DALL·E 2023-06-19 16.32.17 - analog geometry .4fc67b51c98026e34e7e.png",
     "static/media/DALL·E 2022-08-10 16.12.48 - fractal realm.png": "/static/media/DALL·E 2022-08-10 16.12.48 - fractal realm.6f5018a1af0f84ab1fd4.png",
     "static/media/DALL·E 2023-06-09 23.33.49 - fractal vortex made of ancient greek and sanskrit words.png": "/static/media/DALL·E 2023-06-09 23.33.49 - fractal vortex made of ancient greek and sanskrit words.2649d25bd314c9809fd6.png",
     "static/media/huxleyD.png": "/static/media/huxleyD.78a6407fce8881844962.png",
@@ -82,12 +85,12 @@
     "static/media/Linebeam.ttf": "/static/media/Linebeam.6844a117c2efb124a6a0.ttf",
     "static/media/loading.png": "/static/media/loading.b606370260806199a1bd.png",
     "index.html": "/index.html",
-    "main.e472dd3d.css.map": "/static/css/main.e472dd3d.css.map",
-    "main.fe1a9765.js.map": "/static/js/main.fe1a9765.js.map",
+    "main.1f41c6f8.css.map": "/static/css/main.1f41c6f8.css.map",
+    "main.355a61fb.js.map": "/static/js/main.355a61fb.js.map",
     "787.936f6e56.chunk.js.map": "/static/js/787.936f6e56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e472dd3d.css",
-    "static/js/main.fe1a9765.js"
+    "static/css/main.1f41c6f8.css",
+    "static/js/main.355a61fb.js"
   ]
 }
