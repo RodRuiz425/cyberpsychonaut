@@ -331,7 +331,6 @@
     margin-left: 5vw;
     margin-right: 5vw;
     font-size: 20px;
-
   }
 }
 
@@ -352,7 +351,7 @@ hr{
 }
 
 .modal-content{
-  margin-top: 3%;
+  margin-top: 5%;
   background-color: #c1bbc7;
   margin-left: 15%;
   margin-right: 15%;
@@ -366,14 +365,14 @@ hr{
 
   @media (max-width: 768px) {
     font-size: medium;
-    margin-top: 15%;
+    margin-top: 20%;
+    margin-left: 3%;
+    margin-right: 3%;
 
   }
   @media (max-width: 390px) {
     font-size: medium;
-    margin-top: 17%;
-    margin-left: 5%;
-    margin-right: 5%;
+
   }
 }
 
@@ -404,7 +403,6 @@ hr{
   }
   @media (max-width: 390px) {
     font-size: medium;
-
   }
 }
 
