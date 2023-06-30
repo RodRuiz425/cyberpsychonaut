@@ -225,7 +225,7 @@
   
   /* Estilos para pantallas más pequeñas */
   @media (max-width: 768px) {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 }
 

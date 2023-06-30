@@ -18,6 +18,8 @@ import MorrisonPNG from '../img/Dashboard/grantmorrison.png';
 import HermesPNG from '../img/Dashboard/hermes.png';
 import CarrollPNG from '../img/Dashboard/peterjcarroll.png';
 import StraussPNG from '../img/Dashboard/levistrauss.png';
+import SGrofPNG from '../img/Dashboard/stanislavgrof.png';
+
 
 const DashboardComponent = () => (
    <div className='DashboardComponent'>
@@ -118,6 +120,12 @@ const DashboardComponent = () => (
             <NavLink to='/swami-sivananda' className='navlink'>
             <img src={SivanandaPNG} alt="Swami Sivananda" />
             <h2>Swami Sivananda</h2>
+            </NavLink>
+        </div>
+        <div className='dashGrid-item'>
+            <NavLink to='/stanislav-grof' className='navlink'>
+            <img src={SGrofPNG} alt="Stanislav Grof" />
+            <h2>Stanislav Grof</h2>
             </NavLink>
         </div>
         <div className='dashGrid-item'>

@@ -23,6 +23,7 @@ import MckennaPage from './components/pages/MckennaPage';
 import HermesPage from './components/pages/HermesPage';
 import CarrollPage from './components/pages/CarrollPage';
 import StraussPage from './components/pages/LeviStraussPage';
+import SGrofPage from './components/pages/SGrofPage';
 
 function App() {
   return (
@@ -63,6 +64,7 @@ function App() {
         <Route path='/philip-k-dick' element={<KDickPage/>}/>
         <Route path='/rumi' element={<RumiPage/>}/>
         <Route path='/swami-sivananda' element={<SivanandaPage/>}/>
+        <Route path='/stanislav-grof' element={<SGrofPage/>}/>
         <Route path='/terence-mckenna' element={<MckennaPage/>}/>
     </Routes>
     </header>
